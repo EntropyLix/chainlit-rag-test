@@ -1,0 +1,2047 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;&#19975;&#22269;&#35273;&#37266;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#19975;&#22269;&#35273;&#37266; is another game, 'Rise of Kingdoms', which was mistakenly linked in the SMS sent to users of 'AFK Arena'."</data>
+      <data key="d2">e8c8e556de26a8840657281aaceee8fa</data>
+    </node>
+    <node id="&quot;2021-01-08 19:14:54&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The first time the SMS with the incorrect link was sent to users."</data>
+      <data key="d2">e8c8e556de26a8840657281aaceee8fa</data>
+    </node>
+    <node id="&quot;2021-01-08 19:16:18&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The second time the SMS with the incorrect link was sent to users."</data>
+      <data key="d2">e8c8e556de26a8840657281aaceee8fa</data>
+    </node>
+    <node id="&quot;2021-01-08 19:41:00&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The time when the issue with the incorrect SMS link was discovered."</data>
+      <data key="d2">e8c8e556de26a8840657281aaceee8fa</data>
+    </node>
+    <node id="&quot;2021-01-08 22:49:00&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The time when the issue with the incorrect SMS link was fixed."</data>
+      <data key="d2">e8c8e556de26a8840657281aaceee8fa</data>
+    </node>
+    <node id="&quot;&#21073;&#19982;&#36828;&#24449;&#22269;&#26381;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e8c8e556de26a8840657281aaceee8fa</data>
+    </node>
+    <node id="&quot;&#21453;&#24605;&#24635;&#32467;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"&#21453;&#24605;&#24635;&#32467; is an event or activity involving reflection and summarization, aimed at improving vigilance and accuracy in operations."</data>
+      <data key="d2">568b5a037a2d36c7b8ceb99f3c4a4fc3</data>
+    </node>
+    <node id="&quot;&#38656;&#27714;&#26041;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">568b5a037a2d36c7b8ceb99f3c4a4fc3</data>
+    </node>
+    <node id="&quot;&#19978;&#28023;&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"&#19978;&#28023; (Shanghai) is a geographic location where the network access anomaly was detected."
+"&#19978;&#28023; (Shanghai) is a geographic location where the network access anomaly was detected."
+"&#19978;&#28023; is a geographical location where the network access anomaly was discovered."</data>
+      <data key="d2">696325dbab708f798a8b2152ad4cb9ff,b7e9590b16718889a209fc448d65f1d9,ec3cfd31930d022ed319a0fe41c02b5f</data>
+    </node>
+    <node id="&quot;&#21271;&#20140;&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"&#21271;&#20140; (Beijing) is a geographic location mentioned in the context of the time zone used for reporting the issue."</data>
+      <data key="d2">b7e9590b16718889a209fc448d65f1d9</data>
+    </node>
+    <node id="&quot;&#20048;&#29399;&#24179;&#21488;&#32452;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#20048;&#29399;&#24179;&#21488;&#32452; (LeDog Platform Group) is a service group responsible for the platform that experienced a service failure, affecting game login and chat functionalities."</data>
+      <data key="d2">b7e9590b16718889a209fc448d65f1d9</data>
+    </node>
+    <node id="&quot;&#20113;&#26381;&#21153;&#22120; ECS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#20113;&#26381;&#21153;&#22120; ECS (Elastic Compute Service) is a cloud product affected by the network anomaly."</data>
+      <data key="d2">b7e9590b16718889a209fc448d65f1d9</data>
+    </node>
+    <node id="&quot;&#23481;&#22120;&#26381;&#21153; KUBERNETES&#29256;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#23481;&#22120;&#26381;&#21153; Kubernetes&#29256; (Container Service for Kubernetes) is a cloud product affected by the network anomaly."</data>
+      <data key="d2">b7e9590b16718889a209fc448d65f1d9</data>
+    </node>
+    <node id="&quot;&#20113;&#25968;&#25454;&#24211; REDIS &#29256;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#20113;&#25968;&#25454;&#24211; Redis &#29256; (Cloud Database Redis Edition) is a cloud product affected by the network anomaly."</data>
+      <data key="d2">b7e9590b16718889a209fc448d65f1d9</data>
+    </node>
+    <node id="&quot;&#20113;&#21407;&#29983;&#22810;&#27169;&#25968;&#25454;&#24211;LINDORM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#20113;&#21407;&#29983;&#22810;&#27169;&#25968;&#25454;&#24211;Lindorm (Cloud Native Multi-Model Database Lindorm) is a cloud product affected by the network anomaly."</data>
+      <data key="d2">b7e9590b16718889a209fc448d65f1d9</data>
+    </node>
+    <node id="&quot;&#38463;&#37324;&#20113;&quot;">
+      <data key="d0" />
+      <data key="d1">
+
+
+"&#38463;&#37324;&#20113; (Alibaba Cloud) is an organization that further processed the issue, leading to the complete recovery of affected products and services."
+
+
+"&#38463;&#37324;&#20113; is a cloud service provider contacted to troubleshoot and resolve issues with data import speed."
+
+"&#38463;&#37324;&#20113; (Alibaba Cloud) is a cloud computing company that provides the k8s service used to create the external load balancer."
+"&#38463;&#37324;&#20113; (Alibaba Cloud) is a cloud computing company, a subsidiary of Alibaba Group, providing a comprehensive suite of global cloud computing services."
+"&#38463;&#37324;&#20113; (Alibaba Cloud) is a subsidiary of Alibaba Group providing cloud computing services."
+"&#38463;&#37324;&#20113; (Alibaba Cloud) is one of the CDN providers used for downloading update packages for the game."</data>
+      <data key="d2">44b76cc2c157c1e6031f2cd390d0aece,557417e0e572995a0bcab30151f4078e,696325dbab708f798a8b2152ad4cb9ff,886c75c4e62072caeef4f10ebe49e42d,8f402ad8069ed1afcd021d0ce8d52030,b38c676899a3604a4287be49f531c05f,b7e9590b16718889a209fc448d65f1d9,bbd6d559896cbf6a96e97ef34ceb4376,cf37d7d5739acfb94d98eb82543e481f,e57f215bf24f193ad7a7f1e993ebddb4,ec3cfd31930d022ed319a0fe41c02b5f,f82ec666947f44eab1827f9e11a4b07e</data>
+    </node>
+    <node id="&quot;&#24352;&#37995;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#24352;&#37995; (Zhang Xin) is an individual who reported the issue with logging into the dgame &#24576;&#26087;&#26381; (nostalgic server)."
+"&#24352;&#37995; is a person who reported that the dgame &#24576;&#26087;&#26381; could not be logged into."
+"&#24352;&#37995; is a person who suggested guiding players to restart the game to trigger automatic order completion."
+
+</data>
+      <data key="d2">323c9cce4a8746ce01272109d87a0e64,696325dbab708f798a8b2152ad4cb9ff,6c6b79c329b004dcbf2e1ec9a6b3c990,df89437304e392379853cc03070eb60a,ec3cfd31930d022ed319a0fe41c02b5f</data>
+    </node>
+    <node id="&quot;DGAME &#24576;&#26087;&#26381;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"dgame &#24576;&#26087;&#26381; (nostalgic server) is an event or service that experienced login issues during the incident."
+</data>
+      <data key="d2">696325dbab708f798a8b2152ad4cb9ff,ec3cfd31930d022ed319a0fe41c02b5f</data>
+    </node>
+    <node id="&quot;&#36153;&#25215;&#36828;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#36153;&#25215;&#36828; is a person who reported that dts was down."</data>
+      <data key="d2">696325dbab708f798a8b2152ad4cb9ff</data>
+    </node>
+    <node id="&quot;&#24179;&#21488;&#32452;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#24179;&#21488;&#32452; is a server platform group responsible for the issue and partial recovery of services."</data>
+      <data key="d2">696325dbab708f798a8b2152ad4cb9ff</data>
+    </node>
+    <node id="&quot;K8S&#38598;&#32676;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"K8s&#38598;&#32676; refers to a Kubernetes cluster that was reportedly deleted, affecting the network."
+</data>
+      <data key="d2">696325dbab708f798a8b2152ad4cb9ff,e57f215bf24f193ad7a7f1e993ebddb4</data>
+    </node>
+    <node id="&quot;DTS&quot;">
+      <data key="d0" />
+      <data key="d1">
+"dts is an organization that sent a message indicating it has recovered."</data>
+      <data key="d2">696325dbab708f798a8b2152ad4cb9ff,e57f215bf24f193ad7a7f1e993ebddb4</data>
+    </node>
+    <node id="&quot;&#23567;&#20912;&#20912;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#23567;&#20912;&#20912; is a person who has returned to normal operation after the incident."
+"&#23567;&#20912;&#20912; is a person who reported the recovery time of the network failure at 10:27."</data>
+      <data key="d2">e57f215bf24f193ad7a7f1e993ebddb4,f82ec666947f44eab1827f9e11a4b07e</data>
+    </node>
+    <node id="&quot;ROK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"rok is an organization that temporarily suspended its services for one hour during the incident."</data>
+      <data key="d2">e57f215bf24f193ad7a7f1e993ebddb4</data>
+    </node>
+    <node id="&quot;&#28216;&#25103;&#19994;&#21153;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#28216;&#25103;&#19994;&#21153; (Game Business) is an organization that has recovered and started testing after the incident."</data>
+      <data key="d2">e57f215bf24f193ad7a7f1e993ebddb4</data>
+    </node>
+    <node id="&quot;&#20048;&#29399;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#20048;&#29399; is an individual responsible for conducting maintenance on the rok&#22269;&#26381;&#28216;&#25103; and ensuring it was available to players on time."</data>
+      <data key="d2">886c75c4e62072caeef4f10ebe49e42d</data>
+    </node>
+    <node id="&quot;ROK&#22269;&#26381;&#28216;&#25103;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"rok&#22269;&#26381;&#28216;&#25103; refers to the event of the national server game maintenance and its subsequent restoration for players."</data>
+      <data key="d2">886c75c4e62072caeef4f10ebe49e42d</data>
+    </node>
+    <node id="&quot;K8S&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"K8s, or Kubernetes, is a technology mentioned as having a slower recovery time compared to the main host process."
+"k8s is referenced as having a specific entrypoint.sh script, indicating its role in the system."
+"K8s (Kubernetes) is an open-source container orchestration system for automating software deployment, scaling, and management."
+"k8s is a specialized environment that had compatibility issues with the ecs environment, leading to system faults."</data>
+      <data key="d2">00237e51403a48011d07b9bed8a2e6c5,3160ae37f49c516253587da44ef55f6e,886c75c4e62072caeef4f10ebe49e42d,bbd6d559896cbf6a96e97ef34ceb4376</data>
+    </node>
+    <node id="&quot;N&#21306;&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"N&#21306; is a specific region that was affected by the network failure and is mentioned as the only available zone for the servers."</data>
+      <data key="d2">f82ec666947f44eab1827f9e11a4b07e</data>
+    </node>
+    <node id="&quot;NOC&#24212;&#24613;&#26426;&#21046;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"NOC&#24212;&#24613;&#26426;&#21046; refers to the emergency mechanism that will be used to handle similar situations in the future."</data>
+      <data key="d2">f82ec666947f44eab1827f9e11a4b07e</data>
+    </node>
+    <node id="&quot;IGAME&#26381;&#21153;&#22120;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"iGame&#26381;&#21153;&#22120; is the server where the content security error was reported."</data>
+      <data key="d2">41d815fff414e7f8ab5c0e56b15f1cd1</data>
+    </node>
+    <node id="&quot;AVA-PLAT-PROD-K8S-0001&#38598;&#32676;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ava-plat-prod-k8s-0001&#38598;&#32676; is the cluster where the content security service (uniswf) experienced errors."
+"ava-plat-prod-k8s-0001&#38598;&#32676; is an organization or system cluster involved in the incident, specifically related to content security services."
+"ava-plat-prod-k8s-0001&#38598;&#32676; is a cluster using the affected database."</data>
+      <data key="d2">17ca3afb4ccc324a23f6fd6099ef1b38,41d815fff414e7f8ab5c0e56b15f1cd1,fb5466cca732fe82b934f5a5e8574164</data>
+    </node>
+    <node id="&quot;&#20869;&#23481;&#23433;&#20840;&#26381;&#21153;&#65288;UNISWF&#65289;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#20869;&#23481;&#23433;&#20840;&#26381;&#21153;&#65288;uniswf&#65289; is the content security service that experienced a sudden increase in errors."</data>
+      <data key="d2">41d815fff414e7f8ab5c0e56b15f1cd1</data>
+    </node>
+    <node id="&quot;2024-07-01 12:26:40~12:28:30&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The time period during which the content security error occurred."
+"2024-07-01 12:26:40~12:28:30 is the time period during which the database restart occurred, affecting the system's performance."
+"The time period during which the database restart occurred."</data>
+      <data key="d2">17ca3afb4ccc324a23f6fd6099ef1b38,41d815fff414e7f8ab5c0e56b15f1cd1,fb5466cca732fe82b934f5a5e8574164</data>
+    </node>
+    <node id="&quot;&#21016;&#29572;&quot;">
+      <data key="d0" />
+      <data key="d1">
+
+"&#21016;&#29572; is one of the individuals responsible for handling the fault."</data>
+      <data key="d2">17ca3afb4ccc324a23f6fd6099ef1b38,41d815fff414e7f8ab5c0e56b15f1cd1,9fe60c97d215750321af24997d03bc9b</data>
+    </node>
+    <node id="&quot;UNISWF&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"uniswf is a content security service within the ava-plat-prod-k8s-0001&#38598;&#32676; cluster that experienced issues during the incident."
+"uniswf is a content security service under the ava-plat-prod-k8s-0001 cluster that experienced a connection failure."</data>
+      <data key="d2">9fe60c97d215750321af24997d03bc9b,fb5466cca732fe82b934f5a5e8574164</data>
+    </node>
+    <node id="&quot;GEAR-PROD.CLUSTER-RO-C4JFI5VHWP15.US-EAST-1.RDS.AMAZONAWS.COM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"gear-prod.cluster-ro-c4jfi5vhwp15.us-east-1.rds.amazonaws.com is a database associated with the uniswf service that experienced a restart during the incident."
+"gear-prod.cluster-ro-c4jfi5vhwp15.us-east-1.rds.amazonaws.com is the specific database that experienced the restart."
+"gear-prod.cluster-ro-c4jfi5vhwp15.us-east-1.rds.amazonaws.com is the database used by the uniswf service, which experienced a restart causing the connection failure."</data>
+      <data key="d2">17ca3afb4ccc324a23f6fd6099ef1b38,9fe60c97d215750321af24997d03bc9b,fb5466cca732fe82b934f5a5e8574164</data>
+    </node>
+    <node id="&quot;IGAME&#26381;&#21153;&#22120;&#21516;&#23398;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fb5466cca732fe82b934f5a5e8574164</data>
+    </node>
+    <node id="&quot;&#24464;&#20339;&#39568;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#24464;&#20339;&#39568; is a person involved in handling the issue."
+"&#24464;&#20339;&#39568; is another individual responsible for handling the fault and communicating with AWS."
+
+
+"&#24464;&#20339;&#39568; is a person responsible for implementing improvements related to Edgeone, specifically adding status code alerts."
+
+
+"&#24464;&#20339;&#39568; is mentioned as one of the responsible persons for handling the issue."
+"&#24464;&#20339;&#39568; is another individual responsible for handling the fault and restoring the system to normal operation."</data>
+      <data key="d2">11c891800ff5a9092a7747824471c2b1,17ca3afb4ccc324a23f6fd6099ef1b38,3cca54c693c006c0c09c94c355e191f2,42fdba32639e7217b286d6868bc714f2,557417e0e572995a0bcab30151f4078e,762220efabc3267455ff45cacae98753,95f118d05f4cee586fa2ad4246f209e4,9fe60c97d215750321af24997d03bc9b,ed8f7d05e2788b7828c3194d5f88df0a</data>
+    </node>
+    <node id="&quot;AWS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"aws is the organization responsible for the database that experienced the restart and also involved in handling the issue."
+
+"AWS (Amazon Web Services) is the organization responsible for deploying OS maintenance updates that caused the database restart."
+</data>
+      <data key="d2">17ca3afb4ccc324a23f6fd6099ef1b38,42fdba32639e7217b286d6868bc714f2,9fe60c97d215750321af24997d03bc9b,a70a3dab209bec514bf9b7eaee49dc53</data>
+    </node>
+    <node id="&quot;2024-07-01 12:28&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The time when the database restart ended."</data>
+      <data key="d2">17ca3afb4ccc324a23f6fd6099ef1b38</data>
+    </node>
+    <node id="&quot;AMAZON AURORA MYSQL GLOBAL DATABASE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Amazon Aurora MySQL Global Database is the database system for which AWS was deploying OS maintenance updates, leading to restarts."
+"Amazon Aurora MySQL Global Database is the database service affected by the OS maintenance updates."</data>
+      <data key="d2">42fdba32639e7217b286d6868bc714f2,9fe60c97d215750321af24997d03bc9b</data>
+    </node>
+    <node id="&quot;ERROR SQLEXCEPTIONHELPER - COMMUNICATIONS LINK FAILURE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ERROR SqlExceptionHelper - Communications link failure is the error that occurred due to the connection failure between the service and the database."</data>
+      <data key="d2">9fe60c97d215750321af24997d03bc9b</data>
+    </node>
+    <node id="&quot;JUNE 13, 2024&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"June 13, 2024 is the start date for the maintenance window during which the secondary database instances will be restarted."</data>
+      <data key="d2">42fdba32639e7217b286d6868bc714f2</data>
+    </node>
+    <node id="&quot;JULY 2, 2024&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"July 2, 2024 is the expected completion date for the maintenance activity on the secondary database instances."</data>
+      <data key="d2">42fdba32639e7217b286d6868bc714f2</data>
+    </node>
+    <node id="&quot;OS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"OS (Operating System) is software that manages computer hardware, software resources, and provides common services for computer programs."</data>
+      <data key="d2">a70a3dab209bec514bf9b7eaee49dc53</data>
+    </node>
+    <node id="&quot;GEAR-20240701&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"GEAR-20240701 refers to a specific event or project related to content security and feedback review issues in iGame."</data>
+      <data key="d2">a70a3dab209bec514bf9b7eaee49dc53</data>
+    </node>
+    <node id="&quot;IGAME&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"iGame is a platform or service involved in content security and feedback review processes."</data>
+      <data key="d2">a70a3dab209bec514bf9b7eaee49dc53</data>
+    </node>
+    <node id="&quot;&#33521;&#22269;&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"&#33521;&#22269; (United Kingdom) is the location where users experienced severe packet loss while accessing the app."</data>
+      <data key="d2">11c891800ff5a9092a7747824471c2b1</data>
+    </node>
+    <node id="&quot;IPV6&#29992;&#25143;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"ipv6&#29992;&#25143; refers to users who were unable to log into the game due to the incident."</data>
+      <data key="d2">11c891800ff5a9092a7747824471c2b1</data>
+    </node>
+    <node id="&quot;&#20107;&#25925;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"&#20107;&#25925; (incident) refers to the event where ipv6 users were unable to log into the game, affecting 1117 users."</data>
+      <data key="d2">11c891800ff5a9092a7747824471c2b1</data>
+    </node>
+    <node id="&quot;WGAME&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"wgame is the organization that reported the severe packet loss issue for UK users accessing the app."
+</data>
+      <data key="d2">11c891800ff5a9092a7747824471c2b1,b38c676899a3604a4287be49f531c05f</data>
+    </node>
+    <node id="&quot;SGAME&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"sgame is the organization that conducted an internal investigation after receiving feedback from international players."
+
+</data>
+      <data key="d2">11c891800ff5a9092a7747824471c2b1,323c9cce4a8746ce01272109d87a0e64,eaa8a07ea694bc8784f90c58aedbc01d</data>
+    </node>
+    <node id="&quot;SDK&#30740;&#21457;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"sdk&#30740;&#21457; (SDK development) is the team that assisted in the investigation of the incident."
+"SDK&#30740;&#21457; is a research and development team that assists in troubleshooting issues related to the SDK."</data>
+      <data key="d2">11c891800ff5a9092a7747824471c2b1,67823e94edd7ca32cfd425b4cd74987a</data>
+    </node>
+    <node id="&quot;SDK&#36816;&#32500;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"sdk&#36816;&#32500; (SDK operations and maintenance) is the team that intervened in the investigation based on the timeline."
+"SDK&#36816;&#32500; is an operations team that intervenes in troubleshooting and identifies issues related to IPv6 access."</data>
+      <data key="d2">11c891800ff5a9092a7747824471c2b1,67823e94edd7ca32cfd425b4cd74987a</data>
+    </node>
+    <node id="&quot;&#33150;&#35759;&#20113;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#33150;&#35759;&#20113; (Tencent Cloud) is a cloud service provider that was coordinated with to investigate abnormal access issues."</data>
+      <data key="d2">67823e94edd7ca32cfd425b4cd74987a</data>
+    </node>
+    <node id="&quot;ZENLAYER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Zenlayer is a domestic acceleration line used by the SDK to reduce abnormal logs."
+"Zenlayer is an organization mentioned in relation to SDK domestic acceleration lines."
+"Zenlayer is another service provider whose acceleration was also found to be ineffective during the chat server issue."
+"zenlayer is another acceleration service provider whose services were also found ineffective."</data>
+      <data key="d2">43cd1b548cae56bbd4e7a16672e3f6a9,67823e94edd7ca32cfd425b4cd74987a,95f118d05f4cee586fa2ad4246f209e4,ed8f7d05e2788b7828c3194d5f88df0a</data>
+    </node>
+    <node id="&quot;&#36816;&#33829;&#21830;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#36816;&#33829;&#21830; (Operator) is a local service provider responsible for refreshing TTL settings to resolve access issues."</data>
+      <data key="d2">67823e94edd7ca32cfd425b4cd74987a</data>
+    </node>
+    <node id="&quot;&#22269;&#38469;&#26381;7&#21517;&#29609;&#23478;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#22269;&#38469;&#26381;7&#21517;&#29609;&#23478; (7 international server players) are individuals who reported being unable to log into the game."</data>
+      <data key="d2">67823e94edd7ca32cfd425b4cd74987a</data>
+    </node>
+    <node id="&quot;EDGEONE&quot;">
+      <data key="d0" />
+      <data key="d1">
+</data>
+      <data key="d2">67823e94edd7ca32cfd425b4cd74987a,95f118d05f4cee586fa2ad4246f209e4</data>
+    </node>
+    <node id="&quot;&#21556;&#28085;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#21556;&#28085; is involved in operations management."
+
+"&#21556;&#28085; is the person responsible for adjusting the cache expiration time for lua and json files."
+
+
+"&#21556;&#28085; is the person responsible for implementing improvements to the server management process."
+</data>
+      <data key="d2">557417e0e572995a0bcab30151f4078e,59ce327c6ac911ba996b7f6e40fcd931,89476fba3100ac1ff5105aec9c431f78,92a84e22171c557efed1482a809338d2,9f83b4d479ea96948c7e002a5603bd06,c332b3cbc5de3c45c134162f04622054,c5e684d4841e7ffde5a51e065df33cff</data>
+    </node>
+    <node id="&quot;&#20940;&#27491;&#37995;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#20940;&#27491;&#37995; is involved in research and development."
+
+
+"&#20940;&#27491;&#37995; is a person involved in handling the server-side issues during the fault."
+
+"&#20940;&#27491;&#37995; is a person involved in handling the server issues and responsible for modifying entrypoint.sh."
+</data>
+      <data key="d2">3160ae37f49c516253587da44ef55f6e,323c9cce4a8746ce01272109d87a0e64,3cca54c693c006c0c09c94c355e191f2,557417e0e572995a0bcab30151f4078e,762220efabc3267455ff45cacae98753,c0f3ea54674bb0ecafe30db26094e3e6,df89437304e392379853cc03070eb60a</data>
+    </node>
+    <node id="&quot;&#24352;&#20339;&#20048;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#24352;&#20339;&#20048; is involved in research and development."</data>
+      <data key="d2">557417e0e572995a0bcab30151f4078e</data>
+    </node>
+    <node id="&quot;DGAME&#25968;&#25454;&#23548;&#20837;&#24310;&#36831;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"dgame&#25968;&#25454;&#23548;&#20837;&#24310;&#36831; is an event where the data import for dgame was delayed by two hours."</data>
+      <data key="d2">557417e0e572995a0bcab30151f4078e</data>
+    </node>
+    <node id="&quot;&#24464;&#20339;&#29738;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#24464;&#20339;&#29738; is responsible for implementing the improvement measure of adding manual data import as an emergency solution."
+</data>
+      <data key="d2">b101deecb2ce60ffc8838746a8bf75a5,cf37d7d5739acfb94d98eb82543e481f</data>
+    </node>
+    <node id="&quot;&#28436;&#32451;&#25968;&#25454;&#24211;&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"&#28436;&#32451;&#25968;&#25454;&#24211; refers to a practice database used for importing data during the troubleshooting process."</data>
+      <data key="d2">cf37d7d5739acfb94d98eb82543e481f</data>
+    </node>
+    <node id="&quot;&#32039;&#24613;&#24037;&#21333;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"&#32039;&#24613;&#24037;&#21333; is an emergency ticket raised to address the slow performance of DMS."</data>
+      <data key="d2">cf37d7d5739acfb94d98eb82543e481f</data>
+    </node>
+    <node id="&quot;&#25913;&#36827;&#25514;&#26045;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"&#25913;&#36827;&#25514;&#26045; refers to the improvement measures being taken to address the issue of duplicate data during batch execution."</data>
+      <data key="d2">b101deecb2ce60ffc8838746a8bf75a5</data>
+    </node>
+    <node id="&quot;CBT ENVIRONMENT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"CBT Environment refers to a specific environment where the new-pathing configuration was found to be incorrect and subsequently updated."</data>
+      <data key="d2">9b5d6b5a8d17e23f0829593b0673dd67</data>
+    </node>
+    <node id="&quot;NEW-PATHING CONFIGURATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"New-Pathing Configuration is an event involving the setup and troubleshooting of configurations in different environments."</data>
+      <data key="d2">9b5d6b5a8d17e23f0829593b0673dd67</data>
+    </node>
+    <node id="&quot;KMA&quot;">
+      <data key="d0" />
+      <data key="d1">
+"kma is the organization or system used to restart the SLB, which resolved the connectivity issue."</data>
+      <data key="d2">9b5d6b5a8d17e23f0829593b0673dd67,fab4c8bf5d39860c47240839dfdc5b72</data>
+    </node>
+    <node id="&quot;NEW-PATHING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"new-pathing refers to the specific environment or configuration that experienced issues with SLB connectivity."</data>
+      <data key="d2">fab4c8bf5d39860c47240839dfdc5b72</data>
+    </node>
+    <node id="&quot;CBT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"cbt refers to the environment where the SLB configuration error was discovered and subsequently corrected."</data>
+      <data key="d2">fab4c8bf5d39860c47240839dfdc5b72</data>
+    </node>
+    <node id="&quot;&#38472;&#20329;&#21326;&quot;">
+      <data key="d0" />
+      <data key="d1">
+</data>
+      <data key="d2">01e61b24ba23ea93888d873cd7368d08,fab4c8bf5d39860c47240839dfdc5b72</data>
+    </node>
+    <node id="&quot;&#32735;&#36830;&#20852;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#32735;&#36830;&#20852; is a research and development personnel involved in diagnosing and resolving the chat server issue."</data>
+      <data key="d2">ed8f7d05e2788b7828c3194d5f88df0a</data>
+    </node>
+    <node id="&quot;ROK IM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Rok im is the organization affected by the chat server issue, where users were unable to chat normally."</data>
+      <data key="d2">ed8f7d05e2788b7828c3194d5f88df0a</data>
+    </node>
+    <node id="&quot;AKAMAI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Akamai is a service provider whose line switch was initially suspected to have not taken effect, contributing to the chat server issue."
+"akamai is a company providing acceleration services, initially thought to have an ineffective line switch."
+"akamai is one of the CDN providers used for downloading update packages for the game."</data>
+      <data key="d2">43cd1b548cae56bbd4e7a16672e3f6a9,b38c676899a3604a4287be49f531c05f,ed8f7d05e2788b7828c3194d5f88df0a</data>
+    </node>
+    <node id="&quot;2023-05-25 17:00&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The event refers to the time when the chat server issue began, causing disruptions in normal chat functions."</data>
+      <data key="d2">ed8f7d05e2788b7828c3194d5f88df0a</data>
+    </node>
+    <node id="&quot;&#30740;&#21457;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#30740;&#21457; refers to the research and development team responsible for investigating the problem."
+
+"&#30740;&#21457; refers to the development personnel responsible for updating the server and addressing code issues."
+"&#30740;&#21457; refers to the research and development team involved in the server's operation and maintenance."</data>
+      <data key="d2">43cd1b548cae56bbd4e7a16672e3f6a9,7ca1c63a6af19bf05dbe999d07f8ad26,89476fba3100ac1ff5105aec9c431f78,9f83b4d479ea96948c7e002a5603bd06</data>
+    </node>
+    <node id="&quot;&#36816;&#32500;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#36816;&#32500; refers to the operations and maintenance team that intervened to diagnose the issue."
+"&#36816;&#32500; refers to the operations personnel responsible for modifying configurations and managing server operations."
+"&#36816;&#32500; refers to the operations and maintenance team responsible for managing the server environment."</data>
+      <data key="d2">43cd1b548cae56bbd4e7a16672e3f6a9,7ca1c63a6af19bf05dbe999d07f8ad26,9f83b4d479ea96948c7e002a5603bd06</data>
+    </node>
+    <node id="&quot;LB&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LB refers to the load balancer whose bandwidth was maxed out, causing the issue."</data>
+      <data key="d2">43cd1b548cae56bbd4e7a16672e3f6a9</data>
+    </node>
+    <node id="&quot;ROC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"roc is an entity whose elastic IP was switched to shared bandwidth to resolve the issue."</data>
+      <data key="d2">43cd1b548cae56bbd4e7a16672e3f6a9</data>
+    </node>
+    <node id="&quot;&#39033;&#30446;&#32452;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">43cd1b548cae56bbd4e7a16672e3f6a9</data>
+    </node>
+    <node id="&quot;GCP ANYCAST IP&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"GCP Anycast IP is a solution suggested for acceleration, considering cost issues."
+"GCP Anycast IP is the suggested acceleration solution considered due to cost concerns."
+"GCP Anycast IP is a solution suggested for acceleration, considering cost issues."</data>
+      <data key="d2">079b29818728c0f89ed1d3133b23fe62,2c9bcc777d27989ae135689d0d111374</data>
+    </node>
+    <node id="&quot;&#27604;&#36187;&#26381;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"&#27604;&#36187;&#26381; refers to the competition uniforms that were to be distributed."
+"&#27604;&#36187;&#26381; refers to the competition uniforms that were to be distributed."</data>
+      <data key="d2">079b29818728c0f89ed1d3133b23fe62</data>
+    </node>
+    <node id="&quot;&#32447;&#19978;&#29615;&#22659;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"&#32447;&#19978;&#29615;&#22659; refers to the online environment that needed to be matched in terms of acceleration lines."
+"&#32447;&#19978;&#29615;&#22659; refers to the online environment that needed to be matched in terms of acceleration lines."</data>
+      <data key="d2">079b29818728c0f89ed1d3133b23fe62</data>
+    </node>
+    <node id="&quot;&#20313;&#20852;&#24314;&quot;">
+      <data key="d0" />
+      <data key="d1">
+"&#20313;&#20852;&#24314; is the person who assigned the task of distributing competition servers and configuring acceleration lines identical to the online environment."
+</data>
+      <data key="d2">079b29818728c0f89ed1d3133b23fe62,2c9bcc777d27989ae135689d0d111374</data>
+    </node>
+    <node id="&quot;7&#26376; 15 &#26085;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"7&#26376; 15 &#26085; is the date when the task of distributing competition servers and configuring acceleration lines was assigned."</data>
+      <data key="d2">2c9bcc777d27989ae135689d0d111374</data>
+    </node>
+    <node id="&quot;&#21490;&#36920;&#20912;&quot;">
+      <data key="d0" />
+      <data key="d1">
+</data>
+      <data key="d2">1d1f49cd39dd282554325c58832a5c77,2c9bcc777d27989ae135689d0d111374</data>
+    </node>
+    <node id="&quot;&#20013;&#21488;&#37096;&#38376;&quot;">
+      <data key="d0" />
+      <data key="d1">
+"&#20013;&#21488;&#37096;&#38376; (Middle Platform Department) is responsible for ensuring timely synchronization among SDK development, QA, and operations."</data>
+      <data key="d2">1d1f49cd39dd282554325c58832a5c77,2c9bcc777d27989ae135689d0d111374</data>
+    </node>
+    <node id="&quot;&#27963;&#21160;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"&#27963;&#21160; (Event) refers to the specific activity that requires timely synchronization and accurate alignment of needs."</data>
+      <data key="d2">1d1f49cd39dd282554325c58832a5c77</data>
+    </node>
+    <node id="&quot;&#32769;&#21346;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#32769;&#21346; is a research and development personnel involved in handling the CDN fault."
+"&#32769;&#21346; is the person responsible for switching the main CDN address to Alibaba Cloud CDN."
+"&#32769;&#21346; is a research and development personnel involved in handling the incident."</data>
+      <data key="d2">89476fba3100ac1ff5105aec9c431f78,92a84e22171c557efed1482a809338d2,c332b3cbc5de3c45c134162f04622054</data>
+    </node>
+    <node id="&quot;&#28779;&#23665;CDN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#28779;&#23665;CDN is the content delivery network that experienced a fault affecting some nodes in Shandong."
+"&#28779;&#23665;CDN refers to the content delivery network involved in the incident."</data>
+      <data key="d2">89476fba3100ac1ff5105aec9c431f78,92a84e22171c557efed1482a809338d2</data>
+    </node>
+    <node id="&quot;&#23665;&#19996;&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"&#23665;&#19996; is a geographical region in China where the CDN fault affected some users."
+"&#23665;&#19996; is a geographical region in China where the affected users are located."</data>
+      <data key="d2">89476fba3100ac1ff5105aec9c431f78,92a84e22171c557efed1482a809338d2</data>
+    </node>
+    <node id="&quot;CDN&#25925;&#38556;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"CDN&#25925;&#38556; refers to the content delivery network fault that occurred, affecting some nodes in Shandong and preventing some users from accessing the game."</data>
+      <data key="d2">92a84e22171c557efed1482a809338d2</data>
+    </node>
+    <node id="&quot;&#23458;&#26381;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#23458;&#26381; refers to the customer service team that provides user information and feedback."
+"&#23458;&#26381; (Customer Service) is the department responsible for receiving and addressing customer feedback and issues."
+"&#23458;&#26381; is responsible for providing feedback on the system status, confirming no new dropped orders after the fault was resolved."
+"&#23458;&#26381; refers to customer service, which is responsible for recording specific issues and assisting users."</data>
+      <data key="d2">89476fba3100ac1ff5105aec9c431f78,b480604f3948f8a3f2d1097051109c89,c0f3ea54674bb0ecafe30db26094e3e6,dc5a79e76f52532f0f6d9d98fe509c10</data>
+    </node>
+    <node id="&quot;&#38463;&#37324;&#20113;CDN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#38463;&#37324;&#20113;CDN refers to the Alibaba Cloud content delivery network proposed as a solution."</data>
+      <data key="d2">89476fba3100ac1ff5105aec9c431f78</data>
+    </node>
+    <node id="&quot;&#26087;&#25991;&#20214;&#20107;&#20214;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"&#26087;&#25991;&#20214;&#20107;&#20214; refers to the incident where some users accessed outdated files on the CDN."</data>
+      <data key="d2">89476fba3100ac1ff5105aec9c431f78</data>
+    </node>
+    <node id="&quot;2024-02-29&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"2024-02-29 is a date mentioned in the text, possibly indicating when the changes to cache expiration times and check frequency will take place."</data>
+      <data key="d2">59ce327c6ac911ba996b7f6e40fcd931</data>
+    </node>
+    <node id="&quot;&#25991;&#25903;&#20041;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#25991;&#25903;&#20041; is a development personnel involved in handling the incident."</data>
+      <data key="d2">01e61b24ba23ea93888d873cd7368d08</data>
+    </node>
+    <node id="&quot;AKAMAI&#25253;&#21578;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Akamai&#25253;&#21578; is a report that details the incident and its resolution."</data>
+      <data key="d2">01e61b24ba23ea93888d873cd7368d08</data>
+    </node>
+    <node id="&quot;&#20107;&#20214;&#36824;&#21407;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">01e61b24ba23ea93888d873cd7368d08</data>
+    </node>
+    <node id="&quot;GLOBAL UNI-1&#33410;&#28857;&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"global uni-1&#33410;&#28857; (global uni-1 node) refers to a specific machine node that experienced issues, affecting Huawei account logins."
+"global uni-1&#33410;&#28857; is a node in the system where the machine with IP 10.9.129.14 experienced high CPU usage, causing service unavailability."</data>
+      <data key="d2">3cca54c693c006c0c09c94c355e191f2,b480604f3948f8a3f2d1097051109c89</data>
+    </node>
+    <node id="&quot;2024-6-22 15:05:35&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The time when the fault occurred, marking the beginning of the Huawei account login issue."
+"The start time of the issue."</data>
+      <data key="d2">762220efabc3267455ff45cacae98753,b480604f3948f8a3f2d1097051109c89</data>
+    </node>
+    <node id="&quot;2024-6-22 15:52&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The time when Customer Service reported that 3 players were unable to log in with their Huawei accounts."
+"The time when the issue was discovered."</data>
+      <data key="d2">762220efabc3267455ff45cacae98753,b480604f3948f8a3f2d1097051109c89</data>
+    </node>
+    <node id="&quot;2024-6-22 17:26&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The time when Customer Service reported that a total of 7 players were unable to log in with their Huawei accounts."</data>
+      <data key="d2">b480604f3948f8a3f2d1097051109c89</data>
+    </node>
+    <node id="&quot;&#21326;&#20026;&quot;">
+      <data key="d0" />
+      <data key="d1">
+
+</data>
+      <data key="d2">56fe2035b5af39c64f2eebf0d033458c,b480604f3948f8a3f2d1097051109c89,f0a00d4b09a60a18ba4e7524471e0280</data>
+    </node>
+    <node id="&quot;2024-6-22 16:05&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The time when the issue response began."</data>
+      <data key="d2">762220efabc3267455ff45cacae98753</data>
+    </node>
+    <node id="&quot;2024-6-22 17:57&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The time when the machine was repaired and the customer service was informed."</data>
+      <data key="d2">762220efabc3267455ff45cacae98753</data>
+    </node>
+    <node id="&quot;2024-6-22 19:10&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The time when the issue was resolved and players could log in normally."
+"2024-6-22 19:10 is the time when the fault was resolved and the customer service confirmed that players could log in normally."</data>
+      <data key="d2">3cca54c693c006c0c09c94c355e191f2,762220efabc3267455ff45cacae98753</data>
+    </node>
+    <node id="&quot;&#28023;&#22806;&#28192;&#36947;&#26381;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#28023;&#22806;&#28192;&#36947;&#26381; refers to the overseas channel server that experienced abnormal traffic increase, leading to service unavailability."</data>
+      <data key="d2">3cca54c693c006c0c09c94c355e191f2</data>
+    </node>
+    <node id="&quot;UNI-1&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Uni-1 is a node machine that hosts mycarche and provides dependencies to Uni-2 and Uni-3 nodes. Its unavailability caused the entire overseas channel service to be unavailable."</data>
+      <data key="d2">b424af3552aa20bd56db05c3d3904daa</data>
+    </node>
+    <node id="&quot;UNI-2&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Uni-2 is a node machine that depends on the services provided by Uni-1."</data>
+      <data key="d2">b424af3552aa20bd56db05c3d3904daa</data>
+    </node>
+    <node id="&quot;UNI-3&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Uni-3 is a node machine that depends on the services provided by Uni-1."</data>
+      <data key="d2">b424af3552aa20bd56db05c3d3904daa</data>
+    </node>
+    <node id="&quot;ERLANG&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Erlang is a distributed system that relies on epmd to manage communication ports between nodes."</data>
+      <data key="d2">b424af3552aa20bd56db05c3d3904daa</data>
+    </node>
+    <node id="&quot;EPMD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Epmd is a component that manages communication ports between Erlang nodes. Improper iptables configuration can prevent it from starting or communicating correctly."</data>
+      <data key="d2">b424af3552aa20bd56db05c3d3904daa</data>
+    </node>
+    <node id="&quot;GLOBAL UNI-1&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b424af3552aa20bd56db05c3d3904daa</data>
+    </node>
+    <node id="&quot;2023-11-27 21:40:00&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The time when the processing of the issue ended."</data>
+      <data key="d2">d018613bd039b6224d617f020a37cea8</data>
+    </node>
+    <node id="&quot;2023-11-27 21:50:00&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The time when the impact of the issue was eliminated."</data>
+      <data key="d2">d018613bd039b6224d617f020a37cea8</data>
+    </node>
+    <node id="&quot;&#29992;&#25143;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The users who were affected by the inability to log in."</data>
+      <data key="d2">d018613bd039b6224d617f020a37cea8</data>
+    </node>
+    <node id="&quot;&#38463;&#37324;OSS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Alibaba's Object Storage Service, which was involved in the script error."</data>
+      <data key="d2">d018613bd039b6224d617f020a37cea8</data>
+    </node>
+    <node id="&quot;CDN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Content Delivery Network, where the files were supposed to be uploaded."
+"CDN (Content Delivery Network) is a system of distributed servers that deliver web content to users based on their geographic location."</data>
+      <data key="d2">bbd6d559896cbf6a96e97ef34ceb4376,d018613bd039b6224d617f020a37cea8</data>
+    </node>
+    <node id="&quot;JENKINS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"An automation server used for continuous integration and delivery, which completed without errors."
+</data>
+      <data key="d2">d018613bd039b6224d617f020a37cea8,e2703e9454e5353920ff8f5c6bde6280</data>
+    </node>
+    <node id="&quot;S&#32423;&#20107;&#25925;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"A high-severity incident that occurred on 2023-11-27, causing users to be unable to log in."</data>
+      <data key="d2">d018613bd039b6224d617f020a37cea8</data>
+    </node>
+    <node id="&quot;QA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"QA (Quality Assurance) is a process or department responsible for ensuring the quality of software through testing and other methods."</data>
+      <data key="d2">e2703e9454e5353920ff8f5c6bde6280</data>
+    </node>
+    <node id="&quot;&#22269;&#38469;&#21326;&#20026;&#28192;&#36947;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#22269;&#38469;&#21326;&#20026;&#28192;&#36947; (International Huawei Channel) is an organization involved in processing recharges for Sgame, mentioned in the context of a technical fault."
+"&#22269;&#38469;&#21326;&#20026;&#28192;&#36947; refers to the international Huawei channel used for processing player transactions."
+"&#22269;&#38469;&#21326;&#20026;&#28192;&#36947; is the channel through which players were attempting to recharge, leading to the reported issues."</data>
+      <data key="d2">323c9cce4a8746ce01272109d87a0e64,6c6b79c329b004dcbf2e1ec9a6b3c990,eaa8a07ea694bc8784f90c58aedbc01d</data>
+    </node>
+    <node id="&quot;2024-6-22 23:51&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"2024-6-22 23:51 is the date and time when the fault was first reported by players and when the issue began affecting Sgame's recharge system."
+"2024-6-22 23:51 marks the start time of the fault when Sgame received feedback from players about failed transactions."</data>
+      <data key="d2">323c9cce4a8746ce01272109d87a0e64,eaa8a07ea694bc8784f90c58aedbc01d</data>
+    </node>
+    <node id="&quot;&#24352;&#22825;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#24352;&#22825; is a person involved in handling the server-side issues during the fault."
+"&#24352;&#22825; is involved in handling and resolving the system fault, including modifying entrypoint.sh and restoring the system to normal."
+"&#24352;&#22825; is a person involved in handling the server issues and responsible for modifying entrypoint.sh."
+"&#24352;&#22825; is involved in fault handling and recovery measures."</data>
+      <data key="d2">3160ae37f49c516253587da44ef55f6e,323c9cce4a8746ce01272109d87a0e64,c0f3ea54674bb0ecafe30db26094e3e6,df89437304e392379853cc03070eb60a</data>
+    </node>
+    <node id="&quot;2024-6-24 17:30&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"2024-6-24 17:30 marks the end time of the fault when customer service reported no new failed transactions."</data>
+      <data key="d2">323c9cce4a8746ce01272109d87a0e64</data>
+    </node>
+    <node id="&quot;&#26381;&#21153;&#22120;&#21516;&#23398;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#26381;&#21153;&#22120;&#21516;&#23398; is involved in the intervention and handling of the system fault."
+"&#26381;&#21153;&#22120;&#21516;&#23398; refers to the server team members who started intervening to handle the issue."</data>
+      <data key="d2">c0f3ea54674bb0ecafe30db26094e3e6,df89437304e392379853cc03070eb60a</data>
+    </node>
+    <node id="&quot;&#25925;&#38556;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"&#25925;&#38556; refers to the system fault that occurred on 2024-6-24, which required intervention and resolution."</data>
+      <data key="d2">c0f3ea54674bb0ecafe30db26094e3e6</data>
+    </node>
+    <node id="&quot;ENTRYPOINT.SH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c0f3ea54674bb0ecafe30db26094e3e6</data>
+    </node>
+    <node id="&quot;&#21326;&#20026;&#36134;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#21326;&#20026;&#36134; is mentioned in the context of related fault documentation dated 2024.06.22."</data>
+      <data key="d2">00237e51403a48011d07b9bed8a2e6c5</data>
+    </node>
+    <node id="&quot;SQL_EXECUTE_ERROR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"sql_execute_error is an error encountered during the execution of SQL commands, as seen in the trace."</data>
+      <data key="d2">00237e51403a48011d07b9bed8a2e6c5</data>
+    </node>
+    <node id="&quot;DB_HOST&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">00237e51403a48011d07b9bed8a2e6c5</data>
+    </node>
+    <node id="&quot;2024.06.22&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"2024.06.22 is the date associated with the documentation of troubleshooting Huawei account login and payment issues."
+"2024.06.22 is the date associated with the documentation of issues related to &#21326;&#20026; account login and payment troubleshooting."</data>
+      <data key="d2">56fe2035b5af39c64f2eebf0d033458c,f0a00d4b09a60a18ba4e7524471e0280</data>
+    </node>
+    <node id="&quot;DATAHUB&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Datahub is the system that experienced unauthorized access due to weak password login, exposing user lists and emails."
+
+"datahub is a system that had a weak password issue due to not changing the default user password in time."
+</data>
+      <data key="d2">1e25639bbf78dfdd4d0bd9f4b9760b2e,6af26582372c4ba0281e25a724664d11,8f402ad8069ed1afcd021d0ce8d52030,91cc64e57b578909b6643860b5f9fcb9</data>
+    </node>
+    <node id="&quot;DATAHUB USER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Datahub user refers to the individual who logged in using weak credentials and accessed the datahub system."</data>
+      <data key="d2">91cc64e57b578909b6643860b5f9fcb9</data>
+    </node>
+    <node id="&quot;12.6&#26085; 15:30&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"12.6&#26085; 15:30 is the time when the external email feedback was received about the weak password login issue."</data>
+      <data key="d2">91cc64e57b578909b6643860b5f9fcb9</data>
+    </node>
+    <node id="&quot;IP 106.15.40.185:9002&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">91cc64e57b578909b6643860b5f9fcb9</data>
+    </node>
+    <node id="&quot;106.15.40.185:9002&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"106.15.40.185:9002 is an IP address exposed to the public internet, leading to unauthorized access."
+
+"106.15.40.185:9002 is an IP address that was taken offline as it was no longer needed after switching to k8s ingress access with IDaaS authentication."</data>
+      <data key="d2">1e25639bbf78dfdd4d0bd9f4b9760b2e,6af26582372c4ba0281e25a724664d11,8f402ad8069ed1afcd021d0ce8d52030</data>
+    </node>
+    <node id="&quot;&#38463;&#37324;&#20113;K8S&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#38463;&#37324;&#20113;k8s is a cloud service platform used to create the exposed IP address on August 12."</data>
+      <data key="d2">6af26582372c4ba0281e25a724664d11</data>
+    </node>
+    <node id="&quot;&#38750;&#25480;&#26435;&#35775;&#38382;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"&#38750;&#25480;&#26435;&#35775;&#38382; refers to the unauthorized access that occurred due to the exposed IP address."</data>
+      <data key="d2">6af26582372c4ba0281e25a724664d11</data>
+    </node>
+    <node id="&quot;8&#26376;12&#26085;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"8&#26376;12&#26085; is the date when the external load balancer was created through &#38463;&#37324;&#20113; k8s service."</data>
+      <data key="d2">8f402ad8069ed1afcd021d0ce8d52030</data>
+    </node>
+    <node id="&quot;&#30740;&#21457;&#19982;&#36816;&#32500;&#20391;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#30740;&#21457;&#19982;&#36816;&#32500;&#20391; refers to the research and operations side responsible for implementing improvements such as adding svc annotations and network isolation."</data>
+      <data key="d2">1e25639bbf78dfdd4d0bd9f4b9760b2e</data>
+    </node>
+    <node id="&quot;&#32593;&#32476;&#23433;&#20840;&#20391;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#32593;&#32476;&#23433;&#20840;&#20391; refers to the network security side responsible for raising security awareness and organizing related training sessions."</data>
+      <data key="d2">1e25639bbf78dfdd4d0bd9f4b9760b2e</data>
+    </node>
+    <node id="&quot;&#26417;&#24503;&#26126;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#26417;&#24503;&#26126; is a research and development team member involved in handling the tasks mentioned."</data>
+      <data key="d2">38efb3b75f37799590c4a337911802e8</data>
+    </node>
+    <node id="&quot;&#26519;&#25402;&#28392;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#26519;&#25402;&#28392; is a research and development team member involved in handling the tasks mentioned."</data>
+      <data key="d2">38efb3b75f37799590c4a337911802e8</data>
+    </node>
+    <node id="&quot;&#23385;&#20113;&#40857;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#23385;&#20113;&#40857; is a research and development team member involved in handling the tasks mentioned."</data>
+      <data key="d2">38efb3b75f37799590c4a337911802e8</data>
+    </node>
+    <node id="&quot;&#33931;&#28023;&#27915;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#33931;&#28023;&#27915; is an operations and maintenance team member involved in handling the tasks mentioned."
+"&#33931;&#28023;&#27915; is mentioned in the text, likely as an individual responsible for operations."</data>
+      <data key="d2">38efb3b75f37799590c4a337911802e8,f4c8b2a93b5e2818ef32bec2fb1b2727</data>
+    </node>
+    <node id="&quot;&#38472;&#25991;&#25991;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#38472;&#25991;&#25991; is an operations and maintenance team member involved in handling the tasks mentioned."
+"&#38472;&#25991;&#25991; is mentioned in the text, likely as an individual responsible for operations."</data>
+      <data key="d2">38efb3b75f37799590c4a337911802e8,f4c8b2a93b5e2818ef32bec2fb1b2727</data>
+    </node>
+    <node id="&quot;&#21521;&#21513;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#21521;&#21513; is a network security team member involved in handling the tasks mentioned."
+"&#21521;&#21513; is mentioned in the text, likely as an individual responsible for network security."</data>
+      <data key="d2">38efb3b75f37799590c4a337911802e8,f4c8b2a93b5e2818ef32bec2fb1b2727</data>
+    </node>
+    <node id="&quot;&#21016;&#39553;&#30591;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#21016;&#39553;&#30591; is a network security team member involved in handling the tasks mentioned."
+"&#21016;&#39553;&#30591; is mentioned in the text, likely as an individual responsible for network security."</data>
+      <data key="d2">38efb3b75f37799590c4a337911802e8,f4c8b2a93b5e2818ef32bec2fb1b2727</data>
+    </node>
+    <node id="&quot;&#40644;&#38745;&#23431;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">38efb3b75f37799590c4a337911802e8</data>
+    </node>
+    <node id="&quot;&#22269;&#26381;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#22269;&#26381; refers to the national server that experienced an online malfunction."
+"&#22269;&#26381; refers to the domestic server that was mistakenly shut down and later reopened."
+</data>
+      <data key="d2">7ca1c63a6af19bf05dbe999d07f8ad26,9f83b4d479ea96948c7e002a5603bd06,c332b3cbc5de3c45c134162f04622054</data>
+    </node>
+    <node id="&quot;&#22269;&#38469;&#26381;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#22269;&#38469;&#26381; refers to the international server that was undergoing maintenance during the incident."
+</data>
+      <data key="d2">7ca1c63a6af19bf05dbe999d07f8ad26,c332b3cbc5de3c45c134162f04622054</data>
+    </node>
+    <node id="&quot;&#22269;&#26381;&#32447;&#19978;&#25925;&#38556;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"&#22269;&#26381;&#32447;&#19978;&#25925;&#38556; is the online malfunction of the national server that occurred on January 30, 2024."</data>
+      <data key="d2">c332b3cbc5de3c45c134162f04622054</data>
+    </node>
+    <node id="&quot;&#20572;&#26381;&#32500;&#25252;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"&#20572;&#26381;&#32500;&#25252; refers to the event of shutting down the server for maintenance."</data>
+      <data key="d2">7ca1c63a6af19bf05dbe999d07f8ad26</data>
+    </node>
+    <node id="&quot;&#24320;&#26381;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"&#24320;&#26381; refers to the event of starting the server after it was mistakenly shut down."</data>
+      <data key="d2">7ca1c63a6af19bf05dbe999d07f8ad26</data>
+    </node>
+    <node id="&quot;&#35823;&#25805;&#20316;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"&#35823;&#25805;&#20316; refers to the accidental operation that led to the unintentional shutdown of the national server."</data>
+      <data key="d2">9f83b4d479ea96948c7e002a5603bd06</data>
+    </node>
+    <node id="&quot;&#32447;&#19978;&#29615;&#22659;&#20572;&#26381;/&#26356;&#26032;&#23457;&#25209;&#24037;&#21333;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The approval orders for stopping or updating the online environment, which are initiated by the development team and reviewed by the operations team."</data>
+      <data key="d2">c5e684d4841e7ffde5a51e065df33cff</data>
+    </node>
+    <node id="&quot;&#27225;&#22495;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#27225;&#22495; (Orange Domain) is an organization involved in content delivery network (CDN) services, which experienced issues due to high bandwidth usage."
+"&#27225;&#22495; (Orange Domain) is an organization whose back-source access requests are affecting bandwidth usage."
+"&#27225;&#22495; (Orange Domain) is an organization involved in CDN (Content Delivery Network) services, which was used as an alternative to Alibaba's CDN."
+"&#27225;&#22495; (Orange Domain) is an organization whose back-source access requests are affecting bandwidth usage."</data>
+      <data key="d2">44b76cc2c157c1e6031f2cd390d0aece,adad9c089fe0291cdf2e0ad730c259a6,bbd6d559896cbf6a96e97ef34ceb4376,e0fe6e36c23f1b9e4be482a35e5436a2</data>
+    </node>
+    <node id="&quot;12&#26376;7&#26085;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"12&#26376;7&#26085; (December 7th) is the date when Alibaba Cloud's CDN experienced issues, leading to a shift to Orange Domain's CDN."
+"12&#26376;7&#26085; (December 7th) is the date when Alibaba Cloud's CDN experienced issues, leading to a switch to Orange Domain's CDN."</data>
+      <data key="d2">44b76cc2c157c1e6031f2cd390d0aece,bbd6d559896cbf6a96e97ef34ceb4376</data>
+    </node>
+    <node id="&quot;&#38463;&#37324;&quot;">
+      <data key="d0" />
+      <data key="d1">
+
+
+</data>
+      <data key="d2">44b76cc2c157c1e6031f2cd390d0aece,adad9c089fe0291cdf2e0ad730c259a6,bbd6d559896cbf6a96e97ef34ceb4376,e0fe6e36c23f1b9e4be482a35e5436a2</data>
+    </node>
+    <node id="&quot;&#32654;&#19996;&#33258;&#26816;NGINX&#26381;&#21153;&#22120;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#32654;&#19996;&#33258;&#26816;nginx&#26381;&#21153;&#22120; (East US self-check Nginx server) is one of the CDN providers used for downloading update packages for the game."</data>
+      <data key="d2">b38c676899a3604a4287be49f531c05f</data>
+    </node>
+    <node id="&quot;IOS&#29992;&#25143;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"ios&#29992;&#25143; (iOS users) are the individuals who experienced issues downloading the multi-language packs."</data>
+      <data key="d2">b38c676899a3604a4287be49f531c05f</data>
+    </node>
+    <node id="&quot;&#20844;&#21496;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#20844;&#21496; (the company) is the organization that conducted the troubleshooting and testing to resolve the download issue."</data>
+      <data key="d2">b38c676899a3604a4287be49f531c05f</data>
+    </node>
+    <node id="&quot;40&#20301;&#29992;&#25143;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"40&#20301;&#29992;&#25143; (40 users) are the individuals who reported the issue to customer service."</data>
+      <data key="d2">b38c676899a3604a4287be49f531c05f</data>
+    </node>
+    <node id="&quot;&#21069;&#31471;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#21069;&#31471; refers to the frontend, which will collect more detailed error information to locate problems."</data>
+      <data key="d2">dc5a79e76f52532f0f6d9d98fe509c10</data>
+    </node>
+    <node id="&quot;&#23458;&#25143;&#31471;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#23458;&#25143;&#31471; refers to the client, which can download and access normally."</data>
+      <data key="d2">dc5a79e76f52532f0f6d9d98fe509c10</data>
+    </node>
+    <node id="&quot;&#38463;&#21345;&#26364;&#24037;&#20855;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">dc5a79e76f52532f0f6d9d98fe509c10</data>
+    </node>
+    <node id="&quot;SGAME&#20805;&#20540;&#32676;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Sgame&#20805;&#20540;&#32676; is a group that received feedback from online players about recharge issues through the international Huawei channel."</data>
+      <data key="d2">6c6b79c329b004dcbf2e1ec9a6b3c990</data>
+    </node>
+    <node id="&quot;2024-6-22&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"2024-6-22 is the date when the fault occurred and was reported by players."</data>
+      <data key="d2">6c6b79c329b004dcbf2e1ec9a6b3c990</data>
+    </node>
+    <node id="&quot;2024-6-23&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"2024-6-23 is the date when further actions were taken to address the fault, including confirming the extent of the issue."</data>
+      <data key="d2">6c6b79c329b004dcbf2e1ec9a6b3c990</data>
+    </node>
+    <node id="&quot;&#25925;&#38556;&#21709;&#24212;&#26102;&#38388;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"&#25925;&#38556;&#21709;&#24212;&#26102;&#38388; refers to the time when the issue response started, specifically on 2024-6-22 at 23:58."</data>
+      <data key="d2">df89437304e392379853cc03070eb60a</data>
+    </node>
+    <node id="&quot;&#25925;&#38556;&#27490;&#34880;&#26102;&#38388;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"&#25925;&#38556;&#27490;&#34880;&#26102;&#38388; refers to the time when the issue was temporarily resolved, specifically on 2024-6-24 at 14:36."</data>
+      <data key="d2">df89437304e392379853cc03070eb60a</data>
+    </node>
+    <node id="&quot;&#25925;&#38556;&#32467;&#26463;&#26102;&#38388;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"&#25925;&#38556;&#32467;&#26463;&#26102;&#38388; refers to the time when the issue was completely resolved, specifically on 2024-6-24 at 17:30."</data>
+      <data key="d2">df89437304e392379853cc03070eb60a</data>
+    </node>
+    <node id="&quot;&#21326;&#20026;&#36134;&#21495;&#30331;&#24405;&#21644;&#25903;&#20184;&#38382;&#39064;&#25490;&#26597;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"&#21326;&#20026;&#36134;&#21495;&#30331;&#24405;&#21644;&#25903;&#20184;&#38382;&#39064;&#25490;&#26597; is a related fault document dated 2024.06.22."</data>
+      <data key="d2">3160ae37f49c516253587da44ef55f6e</data>
+    </node>
+    <edge source="&quot;&#19975;&#22269;&#35273;&#37266;&quot;" target="&quot;&#21073;&#19982;&#36828;&#24449;&#22269;&#26381;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The incorrect SMS link for 'AFK Arena' users directed them to download 'Rise of Kingdoms' instead."</data>
+      <data key="d5">e8c8e556de26a8840657281aaceee8fa</data>
+    </edge>
+    <edge source="&quot;2021-01-08 19:14:54&quot;" target="&quot;2021-01-08 19:41:00&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The issue with the incorrect SMS link was discovered after the first SMS was sent."</data>
+      <data key="d5">e8c8e556de26a8840657281aaceee8fa</data>
+    </edge>
+    <edge source="&quot;2021-01-08 19:16:18&quot;" target="&quot;2021-01-08 19:41:00&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The issue with the incorrect SMS link was discovered after the second SMS was sent."</data>
+      <data key="d5">e8c8e556de26a8840657281aaceee8fa</data>
+    </edge>
+    <edge source="&quot;2021-01-08 19:41:00&quot;" target="&quot;2021-01-08 22:49:00&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The issue with the incorrect SMS link was fixed after it was discovered."</data>
+      <data key="d5">e8c8e556de26a8840657281aaceee8fa</data>
+    </edge>
+    <edge source="&quot;&#21453;&#24605;&#24635;&#32467;&quot;" target="&quot;&#38656;&#27714;&#26041;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#38656;&#27714;&#26041; is involved in the process that leads to the event of &#21453;&#24605;&#24635;&#32467;, as they are part of the testing and confirmation process."</data>
+      <data key="d5">568b5a037a2d36c7b8ceb99f3c4a4fc3</data>
+    </edge>
+    <edge source="&quot;&#19978;&#28023;&quot;" target="&quot;&#38463;&#37324;&#20113;&quot;">
+      <data key="d3">3.0</data>
+      <data key="d4">"&#38463;&#37324;&#20113;'s monitoring system detected a network access anomaly in the Shanghai region."
+"&#38463;&#37324;&#20113; detected the network access anomaly in the Shanghai region."
+"&#38463;&#37324;&#20113; discovered the network access anomaly in the &#19978;&#28023; region."</data>
+      <data key="d5">696325dbab708f798a8b2152ad4cb9ff,b7e9590b16718889a209fc448d65f1d9,ec3cfd31930d022ed319a0fe41c02b5f</data>
+    </edge>
+    <edge source="&quot;&#20048;&#29399;&#24179;&#21488;&#32452;&quot;" target="&quot;&#38463;&#37324;&#20113;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The service failure in &#20048;&#29399;&#24179;&#21488;&#32452; was detected by &#38463;&#37324;&#20113;'s monitoring system."</data>
+      <data key="d5">b7e9590b16718889a209fc448d65f1d9</data>
+    </edge>
+    <edge source="&quot;&#20048;&#29399;&#24179;&#21488;&#32452;&quot;" target="&quot;&#20113;&#26381;&#21153;&#22120; ECS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The service failure in &#20048;&#29399;&#24179;&#21488;&#32452; affected the &#20113;&#26381;&#21153;&#22120; ECS product."</data>
+      <data key="d5">b7e9590b16718889a209fc448d65f1d9</data>
+    </edge>
+    <edge source="&quot;&#20048;&#29399;&#24179;&#21488;&#32452;&quot;" target="&quot;&#23481;&#22120;&#26381;&#21153; KUBERNETES&#29256;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The service failure in &#20048;&#29399;&#24179;&#21488;&#32452; affected the &#23481;&#22120;&#26381;&#21153; Kubernetes&#29256; product."</data>
+      <data key="d5">b7e9590b16718889a209fc448d65f1d9</data>
+    </edge>
+    <edge source="&quot;&#20048;&#29399;&#24179;&#21488;&#32452;&quot;" target="&quot;&#20113;&#25968;&#25454;&#24211; REDIS &#29256;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The service failure in &#20048;&#29399;&#24179;&#21488;&#32452; affected the &#20113;&#25968;&#25454;&#24211; Redis &#29256; product."</data>
+      <data key="d5">b7e9590b16718889a209fc448d65f1d9</data>
+    </edge>
+    <edge source="&quot;&#20048;&#29399;&#24179;&#21488;&#32452;&quot;" target="&quot;&#20113;&#21407;&#29983;&#22810;&#27169;&#25968;&#25454;&#24211;LINDORM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The service failure in &#20048;&#29399;&#24179;&#21488;&#32452; affected the &#20113;&#21407;&#29983;&#22810;&#27169;&#25968;&#25454;&#24211;Lindorm product."</data>
+      <data key="d5">b7e9590b16718889a209fc448d65f1d9</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;&#20113;&quot;" target="&quot;DGAME &#24576;&#26087;&#26381;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#38463;&#37324;&#20113; is responsible for monitoring and managing the dgame &#24576;&#26087;&#26381;, which experienced login issues."</data>
+      <data key="d5">ec3cfd31930d022ed319a0fe41c02b5f</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;&#20113;&quot;" target="&quot;&#24179;&#21488;&#32452;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#24179;&#21488;&#32452; was responsible for the issue that &#38463;&#37324;&#20113; discovered and worked on partial recovery."</data>
+      <data key="d5">696325dbab708f798a8b2152ad4cb9ff</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;&#20113;&quot;" target="&quot;K8S&#38598;&#32676;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"The deletion of the K8s&#38598;&#32676; was reported to &#38463;&#37324;&#20113;, affecting the network."
+"&#38463;&#37324;&#20113; further processed the issue related to the K8s&#38598;&#32676;, leading to the recovery of affected products and services."</data>
+      <data key="d5">696325dbab708f798a8b2152ad4cb9ff,e57f215bf24f193ad7a7f1e993ebddb4</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;&#20113;&quot;" target="&quot;&#23567;&#20912;&#20912;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"&#23567;&#20912;&#20912; returned to normal operation after &#38463;&#37324;&#20113;'s further processing of the issue."
+"&#23567;&#20912;&#20912; reported the recovery time of &#38463;&#37324;&#20113;'s network failure."</data>
+      <data key="d5">e57f215bf24f193ad7a7f1e993ebddb4,f82ec666947f44eab1827f9e11a4b07e</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;&#20113;&quot;" target="&quot;ROK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"rok's temporary suspension of services was part of the broader recovery efforts managed by &#38463;&#37324;&#20113;."</data>
+      <data key="d5">e57f215bf24f193ad7a7f1e993ebddb4</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;&#20113;&quot;" target="&quot;&#28216;&#25103;&#19994;&#21153;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#28216;&#25103;&#19994;&#21153; recovered and started testing after &#38463;&#37324;&#20113;'s further processing of the issue."</data>
+      <data key="d5">e57f215bf24f193ad7a7f1e993ebddb4</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;&#20113;&quot;" target="&quot;DTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"dts sent a message indicating recovery after &#38463;&#37324;&#20113;'s further processing of the issue."</data>
+      <data key="d5">e57f215bf24f193ad7a7f1e993ebddb4</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;&#20113;&quot;" target="&quot;&#20048;&#29399;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#20048;&#29399; is responsible for maintenance activities under the oversight of &#38463;&#37324;&#20113;."</data>
+      <data key="d5">886c75c4e62072caeef4f10ebe49e42d</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;&#20113;&quot;" target="&quot;ROK&#22269;&#26381;&#28216;&#25103;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#38463;&#37324;&#20113; is responsible for the overall restoration of services, including the rok&#22269;&#26381;&#28216;&#25103; event."</data>
+      <data key="d5">886c75c4e62072caeef4f10ebe49e42d</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;&#20113;&quot;" target="&quot;K8S&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#38463;&#37324;&#20113; mentions K8s as a technology that had a slower recovery time, indicating its role in the restoration process."</data>
+      <data key="d5">886c75c4e62072caeef4f10ebe49e42d</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;&#20113;&quot;" target="&quot;N&#21306;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#38463;&#37324;&#20113;'s servers are located in N&#21306;, which was the region affected by the network failure."</data>
+      <data key="d5">f82ec666947f44eab1827f9e11a4b07e</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;&#20113;&quot;" target="&quot;NOC&#24212;&#24613;&#26426;&#21046;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#38463;&#37324;&#20113; plans to use the NOC&#24212;&#24613;&#26426;&#21046; to handle similar network failures in the future."</data>
+      <data key="d5">f82ec666947f44eab1827f9e11a4b07e</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;&#20113;&quot;" target="&quot;DGAME&#25968;&#25454;&#23548;&#20837;&#24310;&#36831;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#38463;&#37324;&#20113; was contacted to help resolve the data import delay issue for dgame."</data>
+      <data key="d5">557417e0e572995a0bcab30151f4078e</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;&#20113;&quot;" target="&quot;&#24464;&#20339;&#29738;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#38463;&#37324;&#20113;'s feedback and actions are part of the context in which &#24464;&#20339;&#29738; is implementing the improvement measure."</data>
+      <data key="d5">cf37d7d5739acfb94d98eb82543e481f</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;&#20113;&quot;" target="&quot;&#28436;&#32451;&#25968;&#25454;&#24211;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#38463;&#37324;&#20113;'s feedback and actions involved using the practice database to test data import speeds."</data>
+      <data key="d5">cf37d7d5739acfb94d98eb82543e481f</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;&#20113;&quot;" target="&quot;&#32039;&#24613;&#24037;&#21333;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#38463;&#37324;&#20113; is involved in handling the emergency ticket related to the slow performance of DMS."</data>
+      <data key="d5">cf37d7d5739acfb94d98eb82543e481f</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;&#20113;&quot;" target="&quot;106.15.40.185:9002&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The IP address 106.15.40.185:9002 was created using &#38463;&#37324;&#20113;'s k8s service."</data>
+      <data key="d5">8f402ad8069ed1afcd021d0ce8d52030</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;&#20113;&quot;" target="&quot;DATAHUB&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The datahub system's weak password issue was part of the broader security concerns involving &#38463;&#37324;&#20113;'s services."</data>
+      <data key="d5">8f402ad8069ed1afcd021d0ce8d52030</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;&#20113;&quot;" target="&quot;&#27225;&#22495;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#27225;&#22495;'s CDN was used as a fallback when &#38463;&#37324;&#20113;'s CDN experienced issues on December 7th."</data>
+      <data key="d5">44b76cc2c157c1e6031f2cd390d0aece</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;&#20113;&quot;" target="&quot;&#38463;&#37324;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"&#38463;&#37324;&#20113; is a subsidiary of &#38463;&#37324;, providing cloud computing services."
+"&#38463;&#37324;&#20113; is a subsidiary of &#38463;&#37324;, providing cloud computing services."</data>
+      <data key="d5">44b76cc2c157c1e6031f2cd390d0aece,bbd6d559896cbf6a96e97ef34ceb4376</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;&#20113;&quot;" target="&quot;12&#26376;7&#26085;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"On December 7th, &#38463;&#37324;&#20113;'s CDN experienced issues, prompting a shift to Orange Domain's CDN."
+"On December 7th, &#38463;&#37324;&#20113;'s CDN experienced issues, leading to a switch to Orange Domain's CDN."</data>
+      <data key="d5">44b76cc2c157c1e6031f2cd390d0aece,bbd6d559896cbf6a96e97ef34ceb4376</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;&#20113;&quot;" target="&quot;CDN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#38463;&#37324;&#20113;'s CDN experienced issues, leading to a switch to Orange Domain's CDN."</data>
+      <data key="d5">bbd6d559896cbf6a96e97ef34ceb4376</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;&#20113;&quot;" target="&quot;&#20844;&#21496;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The company used Alibaba Cloud as one of the CDN providers for downloading update packages."</data>
+      <data key="d5">b38c676899a3604a4287be49f531c05f</data>
+    </edge>
+    <edge source="&quot;&#24352;&#37995;&quot;" target="&quot;DGAME &#24576;&#26087;&#26381;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"&#24352;&#37995; reported the issue with logging into the dgame &#24576;&#26087;&#26381;."
+"&#24352;&#37995; reported that the dgame &#24576;&#26087;&#26381; could not be logged into."</data>
+      <data key="d5">696325dbab708f798a8b2152ad4cb9ff,ec3cfd31930d022ed319a0fe41c02b5f</data>
+    </edge>
+    <edge source="&quot;&#24352;&#37995;&quot;" target="&quot;SGAME&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#24352;&#37995; suggested a solution to the transaction issue faced by Sgame's players."</data>
+      <data key="d5">323c9cce4a8746ce01272109d87a0e64</data>
+    </edge>
+    <edge source="&quot;&#24352;&#37995;&quot;" target="&quot;SGAME&#20805;&#20540;&#32676;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#24352;&#37995; proposed a solution to the issue reported by players in the Sgame&#20805;&#20540;&#32676;."</data>
+      <data key="d5">6c6b79c329b004dcbf2e1ec9a6b3c990</data>
+    </edge>
+    <edge source="&quot;&#24352;&#37995;&quot;" target="&quot;2024-6-23&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"On 2024-6-23, &#24352;&#37995; took further actions to address the fault reported by players."</data>
+      <data key="d5">6c6b79c329b004dcbf2e1ec9a6b3c990</data>
+    </edge>
+    <edge source="&quot;&#24352;&#37995;&quot;" target="&quot;&#25925;&#38556;&#21709;&#24212;&#26102;&#38388;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#24352;&#37995; proposed a solution at the start of the issue response time."</data>
+      <data key="d5">df89437304e392379853cc03070eb60a</data>
+    </edge>
+    <edge source="&quot;&#36153;&#25215;&#36828;&quot;" target="&quot;DTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#36153;&#25215;&#36828; reported that dts was down."</data>
+      <data key="d5">696325dbab708f798a8b2152ad4cb9ff</data>
+    </edge>
+    <edge source="&quot;&#24179;&#21488;&#32452;&quot;" target="&quot;K8S&#38598;&#32676;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#24179;&#21488;&#32452;'s services were affected by the deletion of the K8s&#38598;&#32676;."</data>
+      <data key="d5">696325dbab708f798a8b2152ad4cb9ff</data>
+    </edge>
+    <edge source="&quot;&#20048;&#29399;&quot;" target="&quot;ROK&#22269;&#26381;&#28216;&#25103;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#20048;&#29399; conducted the maintenance and ensured the timely availability of the rok&#22269;&#26381;&#28216;&#25103; event."</data>
+      <data key="d5">886c75c4e62072caeef4f10ebe49e42d</data>
+    </edge>
+    <edge source="&quot;K8S&quot;" target="&quot;DB_HOST&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"k8s relies on the DB_HOST variable, which is not defined in the ecs environment, causing configuration problems."</data>
+      <data key="d5">00237e51403a48011d07b9bed8a2e6c5</data>
+    </edge>
+    <edge source="&quot;K8S&quot;" target="&quot;CDN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"K8s container images were affected by the slow CDN download speeds."</data>
+      <data key="d5">bbd6d559896cbf6a96e97ef34ceb4376</data>
+    </edge>
+    <edge source="&quot;K8S&quot;" target="&quot;&#21326;&#20026;&#36134;&#21495;&#30331;&#24405;&#21644;&#25903;&#20184;&#38382;&#39064;&#25490;&#26597;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The fault document &#21326;&#20026;&#36134;&#21495;&#30331;&#24405;&#21644;&#25903;&#20184;&#38382;&#39064;&#25490;&#26597; is related to the compatibility issues between k8s and the ecs environment."</data>
+      <data key="d5">3160ae37f49c516253587da44ef55f6e</data>
+    </edge>
+    <edge source="&quot;IGAME&#26381;&#21153;&#22120;&quot;" target="&quot;&#21016;&#29572;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#21016;&#29572; reported the content security error in the iGame server group."</data>
+      <data key="d5">41d815fff414e7f8ab5c0e56b15f1cd1</data>
+    </edge>
+    <edge source="&quot;IGAME&#26381;&#21153;&#22120;&quot;" target="&quot;AVA-PLAT-PROD-K8S-0001&#38598;&#32676;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The content security error was reported on the iGame server, which is part of the ava-plat-prod-k8s-0001 cluster."</data>
+      <data key="d5">41d815fff414e7f8ab5c0e56b15f1cd1</data>
+    </edge>
+    <edge source="&quot;AVA-PLAT-PROD-K8S-0001&#38598;&#32676;&quot;" target="&quot;&#20869;&#23481;&#23433;&#20840;&#26381;&#21153;&#65288;UNISWF&#65289;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The content security service (uniswf) experienced errors in the ava-plat-prod-k8s-0001 cluster."</data>
+      <data key="d5">41d815fff414e7f8ab5c0e56b15f1cd1</data>
+    </edge>
+    <edge source="&quot;AVA-PLAT-PROD-K8S-0001&#38598;&#32676;&quot;" target="&quot;IGAME&#26381;&#21153;&#22120;&#21516;&#23398;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"iGame&#26381;&#21153;&#22120;&#21516;&#23398; provided feedback about the performance of the ava-plat-prod-k8s-0001&#38598;&#32676; during the incident."</data>
+      <data key="d5">fb5466cca732fe82b934f5a5e8574164</data>
+    </edge>
+    <edge source="&quot;AVA-PLAT-PROD-K8S-0001&#38598;&#32676;&quot;" target="&quot;UNISWF&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"uniswf is a service within the ava-plat-prod-k8s-0001&#38598;&#32676; that experienced issues during the incident."</data>
+      <data key="d5">fb5466cca732fe82b934f5a5e8574164</data>
+    </edge>
+    <edge source="&quot;AVA-PLAT-PROD-K8S-0001&#38598;&#32676;&quot;" target="&quot;GEAR-PROD.CLUSTER-RO-C4JFI5VHWP15.US-EAST-1.RDS.AMAZONAWS.COM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"ava-plat-prod-k8s-0001&#38598;&#32676; is the cluster that uses the affected database gear-prod.cluster-ro-c4jfi5vhwp15.us-east-1.rds.amazonaws.com."</data>
+      <data key="d5">17ca3afb4ccc324a23f6fd6099ef1b38</data>
+    </edge>
+    <edge source="&quot;&#20869;&#23481;&#23433;&#20840;&#26381;&#21153;&#65288;UNISWF&#65289;&quot;" target="&quot;2024-07-01 12:26:40~12:28:30&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The content security service (uniswf) experienced errors during this time period."</data>
+      <data key="d5">41d815fff414e7f8ab5c0e56b15f1cd1</data>
+    </edge>
+    <edge source="&quot;2024-07-01 12:26:40~12:28:30&quot;" target="&quot;GEAR-PROD.CLUSTER-RO-C4JFI5VHWP15.US-EAST-1.RDS.AMAZONAWS.COM&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"The gear-prod.cluster-ro-c4jfi5vhwp15.us-east-1.rds.amazonaws.com database experienced a restart during the time period 2024-07-01 12:26:40~12:28:30, affecting the system's performance."
+"The database gear-prod.cluster-ro-c4jfi5vhwp15.us-east-1.rds.amazonaws.com experienced a restart during this time period."</data>
+      <data key="d5">17ca3afb4ccc324a23f6fd6099ef1b38,fb5466cca732fe82b934f5a5e8574164</data>
+    </edge>
+    <edge source="&quot;&#21016;&#29572;&quot;" target="&quot;AWS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#21016;&#29572; reported the issue that aws was responsible for handling."</data>
+      <data key="d5">17ca3afb4ccc324a23f6fd6099ef1b38</data>
+    </edge>
+    <edge source="&quot;&#21016;&#29572;&quot;" target="&quot;&#24464;&#20339;&#39568;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#21016;&#29572; and &#24464;&#20339;&#39568; are both responsible for handling the fault."</data>
+      <data key="d5">9fe60c97d215750321af24997d03bc9b</data>
+    </edge>
+    <edge source="&quot;UNISWF&quot;" target="&quot;GEAR-PROD.CLUSTER-RO-C4JFI5VHWP15.US-EAST-1.RDS.AMAZONAWS.COM&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"The uniswf service is associated with the gear-prod.cluster-ro-c4jfi5vhwp15.us-east-1.rds.amazonaws.com database, which experienced a restart during the incident."
+"uniswf uses the gear-prod.cluster-ro-c4jfi5vhwp15.us-east-1.rds.amazonaws.com database, which experienced a restart causing the connection failure."</data>
+      <data key="d5">9fe60c97d215750321af24997d03bc9b,fb5466cca732fe82b934f5a5e8574164</data>
+    </edge>
+    <edge source="&quot;UNISWF&quot;" target="&quot;ERROR SQLEXCEPTIONHELPER - COMMUNICATIONS LINK FAILURE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"uniswf experienced the ERROR SqlExceptionHelper - Communications link failure due to the database connection failure."</data>
+      <data key="d5">9fe60c97d215750321af24997d03bc9b</data>
+    </edge>
+    <edge source="&quot;GEAR-PROD.CLUSTER-RO-C4JFI5VHWP15.US-EAST-1.RDS.AMAZONAWS.COM&quot;" target="&quot;AWS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"aws is responsible for the database gear-prod.cluster-ro-c4jfi5vhwp15.us-east-1.rds.amazonaws.com."</data>
+      <data key="d5">17ca3afb4ccc324a23f6fd6099ef1b38</data>
+    </edge>
+    <edge source="&quot;GEAR-PROD.CLUSTER-RO-C4JFI5VHWP15.US-EAST-1.RDS.AMAZONAWS.COM&quot;" target="&quot;2024-07-01 12:28&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The database restart ended at this time."</data>
+      <data key="d5">17ca3afb4ccc324a23f6fd6099ef1b38</data>
+    </edge>
+    <edge source="&quot;&#24464;&#20339;&#39568;&quot;" target="&quot;AWS&quot;">
+      <data key="d3">3.0</data>
+      <data key="d4">"&#24464;&#20339;&#39568; was involved in handling the issue along with aws."
+"&#24464;&#20339;&#39568; communicated with AWS to investigate the issue."
+"&#24464;&#20339;&#39568; contacted AWS to investigate the database issue and received a response regarding the maintenance updates."</data>
+      <data key="d5">17ca3afb4ccc324a23f6fd6099ef1b38,42fdba32639e7217b286d6868bc714f2,9fe60c97d215750321af24997d03bc9b</data>
+    </edge>
+    <edge source="&quot;&#24464;&#20339;&#39568;&quot;" target="&quot;&#20107;&#25925;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#24464;&#20339;&#39568; was responsible for handling the incident involving ipv6 users unable to log into the game."</data>
+      <data key="d5">11c891800ff5a9092a7747824471c2b1</data>
+    </edge>
+    <edge source="&quot;&#24464;&#20339;&#39568;&quot;" target="&quot;EDGEONE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#24464;&#20339;&#39568; is responsible for implementing improvements for Edgeone, indicating a managerial or operational relationship."</data>
+      <data key="d5">95f118d05f4cee586fa2ad4246f209e4</data>
+    </edge>
+    <edge source="&quot;&#24464;&#20339;&#39568;&quot;" target="&quot;&#21556;&#28085;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Both &#24464;&#20339;&#39568; and &#21556;&#28085; are involved in operations management, likely working together on the issue."</data>
+      <data key="d5">557417e0e572995a0bcab30151f4078e</data>
+    </edge>
+    <edge source="&quot;&#24464;&#20339;&#39568;&quot;" target="&quot;ROK IM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#24464;&#20339;&#39568; was involved in the operations and maintenance efforts to resolve the chat server issue affecting Rok im."</data>
+      <data key="d5">ed8f7d05e2788b7828c3194d5f88df0a</data>
+    </edge>
+    <edge source="&quot;&#24464;&#20339;&#39568;&quot;" target="&quot;2024-6-22 19:10&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"&#24464;&#20339;&#39568; was one of the responsible persons for handling the issue, which was resolved by this time."
+"&#24464;&#20339;&#39568; was involved in the fault resolution process that concluded at 2024-6-22 19:10."</data>
+      <data key="d5">3cca54c693c006c0c09c94c355e191f2,762220efabc3267455ff45cacae98753</data>
+    </edge>
+    <edge source="&quot;&#24464;&#20339;&#39568;&quot;" target="&quot;&#20940;&#27491;&#37995;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#20940;&#27491;&#37995; and &#24464;&#20339;&#39568; worked together to handle the fault and restore the system to normal operation."</data>
+      <data key="d5">3cca54c693c006c0c09c94c355e191f2</data>
+    </edge>
+    <edge source="&quot;AWS&quot;" target="&quot;AMAZON AURORA MYSQL GLOBAL DATABASE&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"AWS is responsible for deploying OS maintenance updates to the Amazon Aurora MySQL Global Database."
+"AWS is responsible for the maintenance updates affecting the Amazon Aurora MySQL Global Database."</data>
+      <data key="d5">42fdba32639e7217b286d6868bc714f2,9fe60c97d215750321af24997d03bc9b</data>
+    </edge>
+    <edge source="&quot;AWS&quot;" target="&quot;OS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"AWS is performing an upgrade and maintenance on the OS, indicating a direct interaction between the organization and the technology."</data>
+      <data key="d5">a70a3dab209bec514bf9b7eaee49dc53</data>
+    </edge>
+    <edge source="&quot;AMAZON AURORA MYSQL GLOBAL DATABASE&quot;" target="&quot;JUNE 13, 2024&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The maintenance window for the Amazon Aurora MySQL Global Database starts on June 13, 2024."</data>
+      <data key="d5">42fdba32639e7217b286d6868bc714f2</data>
+    </edge>
+    <edge source="&quot;AMAZON AURORA MYSQL GLOBAL DATABASE&quot;" target="&quot;JULY 2, 2024&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The maintenance activity on the Amazon Aurora MySQL Global Database is expected to complete by July 2, 2024."</data>
+      <data key="d5">42fdba32639e7217b286d6868bc714f2</data>
+    </edge>
+    <edge source="&quot;JUNE 13, 2024&quot;" target="&quot;JULY 2, 2024&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The maintenance window for the Amazon Aurora MySQL Global Database spans from June 13, 2024 to July 2, 2024."</data>
+      <data key="d5">42fdba32639e7217b286d6868bc714f2</data>
+    </edge>
+    <edge source="&quot;GEAR-20240701&quot;" target="&quot;IGAME&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"GEAR-20240701 is an event related to content security and feedback review issues in iGame, indicating a direct connection."</data>
+      <data key="d5">a70a3dab209bec514bf9b7eaee49dc53</data>
+    </edge>
+    <edge source="&quot;&#33521;&#22269;&quot;" target="&quot;WGAME&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"wgame reported the severe packet loss issue for users in the United Kingdom accessing the app."</data>
+      <data key="d5">11c891800ff5a9092a7747824471c2b1</data>
+    </edge>
+    <edge source="&quot;&#20107;&#25925;&quot;" target="&quot;SGAME&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"sgame conducted an internal investigation after receiving feedback from international players about the incident."</data>
+      <data key="d5">11c891800ff5a9092a7747824471c2b1</data>
+    </edge>
+    <edge source="&quot;&#20107;&#25925;&quot;" target="&quot;SDK&#30740;&#21457;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"sdk&#30740;&#21457; assisted in the investigation of the incident involving ipv6 users unable to log into the game."</data>
+      <data key="d5">11c891800ff5a9092a7747824471c2b1</data>
+    </edge>
+    <edge source="&quot;&#20107;&#25925;&quot;" target="&quot;SDK&#36816;&#32500;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"sdk&#36816;&#32500; intervened in the investigation of the incident based on the timeline."</data>
+      <data key="d5">11c891800ff5a9092a7747824471c2b1</data>
+    </edge>
+    <edge source="&quot;WGAME&quot;" target="&quot;IOS&#29992;&#25143;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"wgame is the organization responsible for the game that iOS users were unable to download multi-language packs for."</data>
+      <data key="d5">b38c676899a3604a4287be49f531c05f</data>
+    </edge>
+    <edge source="&quot;SGAME&quot;" target="&quot;&#22269;&#38469;&#21326;&#20026;&#28192;&#36947;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Sgame relies on the International Huawei Channel for processing recharges, and the fault affected this channel, causing issues for Sgame."
+"Sgame uses the international Huawei channel for processing player transactions, which experienced issues during the fault."</data>
+      <data key="d5">323c9cce4a8746ce01272109d87a0e64,eaa8a07ea694bc8784f90c58aedbc01d</data>
+    </edge>
+    <edge source="&quot;SGAME&quot;" target="&quot;2024-6-22 23:51&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sgame experienced a technical fault on 2024-6-22 23:51, which was reported by players and affected their recharge system."</data>
+      <data key="d5">eaa8a07ea694bc8784f90c58aedbc01d</data>
+    </edge>
+    <edge source="&quot;SDK&#30740;&#21457;&quot;" target="&quot;SDK&#36816;&#32500;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"SDK&#30740;&#21457; and SDK&#36816;&#32500; collaborated to troubleshoot and resolve the issues related to the SDK and IPv6 access."</data>
+      <data key="d5">67823e94edd7ca32cfd425b4cd74987a</data>
+    </edge>
+    <edge source="&quot;SDK&#36816;&#32500;&quot;" target="&quot;EDGEONE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Edgeone's IPv6 access caused issues that SDK&#36816;&#32500; had to troubleshoot and resolve."</data>
+      <data key="d5">67823e94edd7ca32cfd425b4cd74987a</data>
+    </edge>
+    <edge source="&quot;SDK&#36816;&#32500;&quot;" target="&quot;&#33150;&#35759;&#20113;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"SDK&#36816;&#32500; coordinated with &#33150;&#35759;&#20113; to investigate and resolve abnormal access issues."</data>
+      <data key="d5">67823e94edd7ca32cfd425b4cd74987a</data>
+    </edge>
+    <edge source="&quot;SDK&#36816;&#32500;&quot;" target="&quot;ZENLAYER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"SDK&#36816;&#32500; used Zenlayer's domestic acceleration line to reduce abnormal logs."</data>
+      <data key="d5">67823e94edd7ca32cfd425b4cd74987a</data>
+    </edge>
+    <edge source="&quot;ZENLAYER&quot;" target="&quot;EDGEONE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Edgeone uses Zenlayer for SDK domestic acceleration lines, indicating a service relationship."</data>
+      <data key="d5">95f118d05f4cee586fa2ad4246f209e4</data>
+    </edge>
+    <edge source="&quot;ZENLAYER&quot;" target="&quot;ROK IM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Zenlayer's acceleration was found to be ineffective, contributing to the chat server issue affecting Rok im."</data>
+      <data key="d5">ed8f7d05e2788b7828c3194d5f88df0a</data>
+    </edge>
+    <edge source="&quot;ZENLAYER&quot;" target="&quot;&#36816;&#32500;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#36816;&#32500; found that zenlayer's acceleration services were also ineffective."</data>
+      <data key="d5">43cd1b548cae56bbd4e7a16672e3f6a9</data>
+    </edge>
+    <edge source="&quot;&#36816;&#33829;&#21830;&quot;" target="&quot;EDGEONE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Edgeone identified that the local &#36816;&#33829;&#21830;'s TTL settings were causing issues, leading to a refresh of these settings."</data>
+      <data key="d5">67823e94edd7ca32cfd425b4cd74987a</data>
+    </edge>
+    <edge source="&quot;&#22269;&#38469;&#26381;7&#21517;&#29609;&#23478;&quot;" target="&quot;EDGEONE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 7 international server players were unable to log into the game due to issues caused by Edgeone's IPv6 access."</data>
+      <data key="d5">67823e94edd7ca32cfd425b4cd74987a</data>
+    </edge>
+    <edge source="&quot;&#21556;&#28085;&quot;" target="&quot;CDN&#25925;&#38556;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#21556;&#28085; was involved in the operations and maintenance process to address the CDN fault."</data>
+      <data key="d5">92a84e22171c557efed1482a809338d2</data>
+    </edge>
+    <edge source="&quot;&#21556;&#28085;&quot;" target="&quot;&#26087;&#25991;&#20214;&#20107;&#20214;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#21556;&#28085; is responsible for adjusting the cache expiration time to prevent future occurrences of the &#26087;&#25991;&#20214;&#20107;&#20214;."</data>
+      <data key="d5">89476fba3100ac1ff5105aec9c431f78</data>
+    </edge>
+    <edge source="&quot;&#21556;&#28085;&quot;" target="&quot;2024-02-29&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#21556;&#28085; is likely involved in the changes that are set to occur on 2024-02-29."</data>
+      <data key="d5">59ce327c6ac911ba996b7f6e40fcd931</data>
+    </edge>
+    <edge source="&quot;&#21556;&#28085;&quot;" target="&quot;&#22269;&#26381;&#32447;&#19978;&#25925;&#38556;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#21556;&#28085; was involved in the handling and resolution of the national server's online malfunction."</data>
+      <data key="d5">c332b3cbc5de3c45c134162f04622054</data>
+    </edge>
+    <edge source="&quot;&#21556;&#28085;&quot;" target="&quot;&#36816;&#32500;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#21556;&#28085; is responsible for implementing improvements to the processes managed by &#36816;&#32500;."</data>
+      <data key="d5">9f83b4d479ea96948c7e002a5603bd06</data>
+    </edge>
+    <edge source="&quot;&#21556;&#28085;&quot;" target="&quot;&#30740;&#21457;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#21556;&#28085; is responsible for implementing improvements that involve &#30740;&#21457; in the server management process."</data>
+      <data key="d5">9f83b4d479ea96948c7e002a5603bd06</data>
+    </edge>
+    <edge source="&quot;&#21556;&#28085;&quot;" target="&quot;&#32447;&#19978;&#29615;&#22659;&#20572;&#26381;/&#26356;&#26032;&#23457;&#25209;&#24037;&#21333;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#21556;&#28085; is responsible for initiating and reviewing the approval orders for stopping or updating the online environment."</data>
+      <data key="d5">c5e684d4841e7ffde5a51e065df33cff</data>
+    </edge>
+    <edge source="&quot;&#20940;&#27491;&#37995;&quot;" target="&quot;&#24352;&#20339;&#20048;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Both &#20940;&#27491;&#37995; and &#24352;&#20339;&#20048; are involved in research and development, likely collaborating on the data import process."</data>
+      <data key="d5">557417e0e572995a0bcab30151f4078e</data>
+    </edge>
+    <edge source="&quot;&#20940;&#27491;&#37995;&quot;" target="&quot;DGAME&#25968;&#25454;&#23548;&#20837;&#24310;&#36831;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#20940;&#27491;&#37995;, as part of the R&amp;D team, was involved in addressing the data import delay for dgame."</data>
+      <data key="d5">557417e0e572995a0bcab30151f4078e</data>
+    </edge>
+    <edge source="&quot;&#20940;&#27491;&#37995;&quot;" target="&quot;2024-6-22 16:05&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#20940;&#27491;&#37995; started handling and locating the issue at this time."</data>
+      <data key="d5">762220efabc3267455ff45cacae98753</data>
+    </edge>
+    <edge source="&quot;&#20940;&#27491;&#37995;&quot;" target="&quot;2024-6-22 17:57&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#20940;&#27491;&#37995; completed the machine repair and informed customer service at this time."</data>
+      <data key="d5">762220efabc3267455ff45cacae98753</data>
+    </edge>
+    <edge source="&quot;&#20940;&#27491;&#37995;&quot;" target="&quot;2024-6-22 19:10&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"&#20940;&#27491;&#37995; was involved in resolving the issue by this time."
+"&#20940;&#27491;&#37995; was involved in the fault resolution process that concluded at 2024-6-22 19:10."</data>
+      <data key="d5">3cca54c693c006c0c09c94c355e191f2,762220efabc3267455ff45cacae98753</data>
+    </edge>
+    <edge source="&quot;&#20940;&#27491;&#37995;&quot;" target="&quot;&#24352;&#22825;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"&#20940;&#27491;&#37995; and &#24352;&#22825; worked together to handle the server-side issues during the fault."
+"&#20940;&#27491;&#37995; and &#24352;&#22825; are both involved in handling and resolving the system fault."</data>
+      <data key="d5">3160ae37f49c516253587da44ef55f6e,323c9cce4a8746ce01272109d87a0e64</data>
+    </edge>
+    <edge source="&quot;&#20940;&#27491;&#37995;&quot;" target="&quot;&#25925;&#38556;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#20940;&#27491;&#37995; played a key role in handling and resolving the system fault."</data>
+      <data key="d5">c0f3ea54674bb0ecafe30db26094e3e6</data>
+    </edge>
+    <edge source="&quot;&#20940;&#27491;&#37995;&quot;" target="&quot;&#25925;&#38556;&#27490;&#34880;&#26102;&#38388;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#20940;&#27491;&#37995; started handling the issue during the temporary resolution time."</data>
+      <data key="d5">df89437304e392379853cc03070eb60a</data>
+    </edge>
+    <edge source="&quot;&#20940;&#27491;&#37995;&quot;" target="&quot;&#25925;&#38556;&#32467;&#26463;&#26102;&#38388;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#20940;&#27491;&#37995; was involved in the complete resolution of the issue."</data>
+      <data key="d5">df89437304e392379853cc03070eb60a</data>
+    </edge>
+    <edge source="&quot;&#24464;&#20339;&#29738;&quot;" target="&quot;&#32039;&#24613;&#24037;&#21333;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#24464;&#20339;&#29738; is responsible for implementing an improvement measure as part of the resolution process for the emergency ticket."</data>
+      <data key="d5">cf37d7d5739acfb94d98eb82543e481f</data>
+    </edge>
+    <edge source="&quot;&#24464;&#20339;&#29738;&quot;" target="&quot;&#25913;&#36827;&#25514;&#26045;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#24464;&#20339;&#29738; is responsible for one of the improvement measures, specifically adding manual data import as an emergency solution."</data>
+      <data key="d5">b101deecb2ce60ffc8838746a8bf75a5</data>
+    </edge>
+    <edge source="&quot;CBT ENVIRONMENT&quot;" target="&quot;NEW-PATHING CONFIGURATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The CBT Environment was affected by the new-pathing configuration error, which was later corrected."</data>
+      <data key="d5">9b5d6b5a8d17e23f0829593b0673dd67</data>
+    </edge>
+    <edge source="&quot;NEW-PATHING CONFIGURATION&quot;" target="&quot;KMA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"KMA is responsible for copying and restarting the new-pathing configuration, indicating their involvement in the event."</data>
+      <data key="d5">9b5d6b5a8d17e23f0829593b0673dd67</data>
+    </edge>
+    <edge source="&quot;KMA&quot;" target="&quot;NEW-PATHING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"kma was used to restart the SLB in the new-pathing environment, resolving the connectivity issue."</data>
+      <data key="d5">fab4c8bf5d39860c47240839dfdc5b72</data>
+    </edge>
+    <edge source="&quot;NEW-PATHING&quot;" target="&quot;&#38472;&#20329;&#21326;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#38472;&#20329;&#21326; is responsible for implementing measures to prevent future issues in the new-pathing environment."</data>
+      <data key="d5">fab4c8bf5d39860c47240839dfdc5b72</data>
+    </edge>
+    <edge source="&quot;NEW-PATHING&quot;" target="&quot;CBT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The SLB configuration error in the cbt environment affected the new-pathing environment, which was later corrected."</data>
+      <data key="d5">fab4c8bf5d39860c47240839dfdc5b72</data>
+    </edge>
+    <edge source="&quot;&#38472;&#20329;&#21326;&quot;" target="&quot;&#25991;&#25903;&#20041;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Both &#38472;&#20329;&#21326; and &#25991;&#25903;&#20041; are involved in handling the incident, indicating collaboration between operations and development teams."</data>
+      <data key="d5">01e61b24ba23ea93888d873cd7368d08</data>
+    </edge>
+    <edge source="&quot;&#32735;&#36830;&#20852;&quot;" target="&quot;ROK IM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#32735;&#36830;&#20852; was involved in the research and development efforts to diagnose and resolve the chat server issue affecting Rok im."</data>
+      <data key="d5">ed8f7d05e2788b7828c3194d5f88df0a</data>
+    </edge>
+    <edge source="&quot;ROK IM&quot;" target="&quot;AKAMAI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Akamai's line switch was initially suspected to have contributed to the chat server issue affecting Rok im."</data>
+      <data key="d5">ed8f7d05e2788b7828c3194d5f88df0a</data>
+    </edge>
+    <edge source="&quot;ROK IM&quot;" target="&quot;2023-05-25 17:00&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The chat server issue affecting Rok im began at 2023-05-25 17:00."</data>
+      <data key="d5">ed8f7d05e2788b7828c3194d5f88df0a</data>
+    </edge>
+    <edge source="&quot;AKAMAI&quot;" target="&quot;&#36816;&#32500;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#36816;&#32500; initially thought that the issue was due to akamai's line switch not being effective."</data>
+      <data key="d5">43cd1b548cae56bbd4e7a16672e3f6a9</data>
+    </edge>
+    <edge source="&quot;AKAMAI&quot;" target="&quot;&#20844;&#21496;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The company used Akamai's diagnostic tools to troubleshoot and resolve the download issue."</data>
+      <data key="d5">b38c676899a3604a4287be49f531c05f</data>
+    </edge>
+    <edge source="&quot;&#30740;&#21457;&quot;" target="&quot;&#39033;&#30446;&#32452;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#39033;&#30446;&#32452; received feedback about the slow chat information retrieval and &#30740;&#21457; investigated the problem."</data>
+      <data key="d5">43cd1b548cae56bbd4e7a16672e3f6a9</data>
+    </edge>
+    <edge source="&quot;&#30740;&#21457;&quot;" target="&quot;&#23458;&#26381;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#30740;&#21457; and &#23458;&#26381; collaborate to investigate and resolve the issue by sharing user information and feedback."</data>
+      <data key="d5">89476fba3100ac1ff5105aec9c431f78</data>
+    </edge>
+    <edge source="&quot;&#30740;&#21457;&quot;" target="&quot;&#28779;&#23665;CDN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#30740;&#21457; manually refreshes the relevant configuration files on &#28779;&#23665;CDN to resolve the issue."</data>
+      <data key="d5">89476fba3100ac1ff5105aec9c431f78</data>
+    </edge>
+    <edge source="&quot;&#30740;&#21457;&quot;" target="&quot;&#22269;&#38469;&#26381;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#30740;&#21457; updated &#22269;&#38469;&#26381; and addressed issues with the game process."</data>
+      <data key="d5">7ca1c63a6af19bf05dbe999d07f8ad26</data>
+    </edge>
+    <edge source="&quot;&#30740;&#21457;&quot;" target="&quot;&#22269;&#26381;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"&#30740;&#21457; was notified of the mistaken shutdown of &#22269;&#26381; and communicated the recovery time."
+"&#30740;&#21457; was notified by &#36816;&#32500; about the unintentional shutdown and worked to restart the &#22269;&#26381;."</data>
+      <data key="d5">7ca1c63a6af19bf05dbe999d07f8ad26,9f83b4d479ea96948c7e002a5603bd06</data>
+    </edge>
+    <edge source="&quot;&#36816;&#32500;&quot;" target="&quot;&#39033;&#30446;&#32452;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#39033;&#30446;&#32452; received feedback about the slow chat information retrieval and &#36816;&#32500; intervened to diagnose the issue."</data>
+      <data key="d5">43cd1b548cae56bbd4e7a16672e3f6a9</data>
+    </edge>
+    <edge source="&quot;&#36816;&#32500;&quot;" target="&quot;LB&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#36816;&#32500; discovered that the load balancer's bandwidth was maxed out, causing the issue."</data>
+      <data key="d5">43cd1b548cae56bbd4e7a16672e3f6a9</data>
+    </edge>
+    <edge source="&quot;&#36816;&#32500;&quot;" target="&quot;&#22269;&#38469;&#26381;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#36816;&#32500; modified configurations and managed the shutdown and restart of &#22269;&#38469;&#26381;."</data>
+      <data key="d5">7ca1c63a6af19bf05dbe999d07f8ad26</data>
+    </edge>
+    <edge source="&quot;&#36816;&#32500;&quot;" target="&quot;&#22269;&#26381;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"&#36816;&#32500; mistakenly shut down &#22269;&#26381; and later reopened it."
+"&#36816;&#32500; was responsible for the initial unintentional shutdown of the &#22269;&#26381; and later coordinated with &#30740;&#21457; to restart it."</data>
+      <data key="d5">7ca1c63a6af19bf05dbe999d07f8ad26,9f83b4d479ea96948c7e002a5603bd06</data>
+    </edge>
+    <edge source="&quot;&#36816;&#32500;&quot;" target="&quot;&#35823;&#25805;&#20316;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#36816;&#32500; was responsible for the &#35823;&#25805;&#20316; that led to the unintentional shutdown of the national server."</data>
+      <data key="d5">9f83b4d479ea96948c7e002a5603bd06</data>
+    </edge>
+    <edge source="&quot;LB&quot;" target="&quot;ROC&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"roc's elastic IP was switched to shared bandwidth to resolve the issue caused by the load balancer's maxed-out bandwidth."</data>
+      <data key="d5">43cd1b548cae56bbd4e7a16672e3f6a9</data>
+    </edge>
+    <edge source="&quot;GCP ANYCAST IP&quot;" target="&quot;&#20313;&#20852;&#24314;&quot;">
+      <data key="d3">3.0</data>
+      <data key="d4">"&#20313;&#20852;&#24314; suggested using GCP Anycast IP as an acceleration solution."
+"&#20313;&#20852;&#24314; considered GCP Anycast IP as the acceleration solution due to cost concerns."
+"&#20313;&#20852;&#24314; suggested using GCP Anycast IP as an acceleration solution."</data>
+      <data key="d5">079b29818728c0f89ed1d3133b23fe62,2c9bcc777d27989ae135689d0d111374</data>
+    </edge>
+    <edge source="&quot;GCP ANYCAST IP&quot;" target="&quot;7&#26376; 15 &#26085;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"GCP Anycast IP was suggested as an acceleration solution on 7&#26376; 15 &#26085; due to cost concerns."</data>
+      <data key="d5">2c9bcc777d27989ae135689d0d111374</data>
+    </edge>
+    <edge source="&quot;&#27604;&#36187;&#26381;&quot;" target="&quot;&#20313;&#20852;&#24314;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"&#20313;&#20852;&#24314; was responsible for distributing the competition uniforms (&#27604;&#36187;&#26381;)."
+"&#20313;&#20852;&#24314; was responsible for distributing the competition uniforms (&#27604;&#36187;&#26381;)."</data>
+      <data key="d5">079b29818728c0f89ed1d3133b23fe62</data>
+    </edge>
+    <edge source="&quot;&#32447;&#19978;&#29615;&#22659;&quot;" target="&quot;&#20313;&#20852;&#24314;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"&#20313;&#20852;&#24314; was responsible for configuring acceleration lines similar to the online environment (&#32447;&#19978;&#29615;&#22659;)."
+"&#20313;&#20852;&#24314; was responsible for configuring acceleration lines similar to the online environment (&#32447;&#19978;&#29615;&#22659;)."</data>
+      <data key="d5">079b29818728c0f89ed1d3133b23fe62</data>
+    </edge>
+    <edge source="&quot;&#20313;&#20852;&#24314;&quot;" target="&quot;7&#26376; 15 &#26085;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#20313;&#20852;&#24314; assigned the task of distributing competition servers and configuring acceleration lines on 7&#26376; 15 &#26085;."</data>
+      <data key="d5">2c9bcc777d27989ae135689d0d111374</data>
+    </edge>
+    <edge source="&quot;&#21490;&#36920;&#20912;&quot;" target="&quot;&#20013;&#21488;&#37096;&#38376;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"&#21490;&#36920;&#20912; is a member of the middle platform department, responsible for ensuring timely synchronization among SDK development, QA, and operations."
+"&#21490;&#36920;&#20912; is a member of the &#20013;&#21488;&#37096;&#38376; and acts as the liaison for ensuring synchronization among different teams."</data>
+      <data key="d5">1d1f49cd39dd282554325c58832a5c77,2c9bcc777d27989ae135689d0d111374</data>
+    </edge>
+    <edge source="&quot;&#21490;&#36920;&#20912;&quot;" target="&quot;&#27963;&#21160;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#21490;&#36920;&#20912; is responsible for ensuring the accurate alignment and timely synchronization of needs for the &#27963;&#21160;."</data>
+      <data key="d5">1d1f49cd39dd282554325c58832a5c77</data>
+    </edge>
+    <edge source="&quot;&#20013;&#21488;&#37096;&#38376;&quot;" target="&quot;&#27963;&#21160;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#20013;&#21488;&#37096;&#38376; is responsible for ensuring the accurate alignment and timely synchronization of needs for the &#27963;&#21160;."</data>
+      <data key="d5">1d1f49cd39dd282554325c58832a5c77</data>
+    </edge>
+    <edge source="&quot;&#32769;&#21346;&quot;" target="&quot;CDN&#25925;&#38556;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#32769;&#21346; was involved in the research and development process to address the CDN fault."</data>
+      <data key="d5">92a84e22171c557efed1482a809338d2</data>
+    </edge>
+    <edge source="&quot;&#32769;&#21346;&quot;" target="&quot;&#38463;&#37324;&#20113;CDN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#32769;&#21346; is responsible for switching the main CDN address to &#38463;&#37324;&#20113;CDN as a part of the improvement measures."</data>
+      <data key="d5">89476fba3100ac1ff5105aec9c431f78</data>
+    </edge>
+    <edge source="&quot;&#32769;&#21346;&quot;" target="&quot;&#22269;&#26381;&#32447;&#19978;&#25925;&#38556;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#32769;&#21346; was involved in the handling and resolution of the national server's online malfunction."</data>
+      <data key="d5">c332b3cbc5de3c45c134162f04622054</data>
+    </edge>
+    <edge source="&quot;&#28779;&#23665;CDN&quot;" target="&quot;CDN&#25925;&#38556;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#28779;&#23665;CDN is the network that experienced the fault, affecting its nodes in Shandong."</data>
+      <data key="d5">92a84e22171c557efed1482a809338d2</data>
+    </edge>
+    <edge source="&quot;&#28779;&#23665;CDN&quot;" target="&quot;&#26087;&#25991;&#20214;&#20107;&#20214;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#28779;&#23665;CDN is the network where the outdated files were accessed, leading to the &#26087;&#25991;&#20214;&#20107;&#20214;."</data>
+      <data key="d5">89476fba3100ac1ff5105aec9c431f78</data>
+    </edge>
+    <edge source="&quot;&#23665;&#19996;&quot;" target="&quot;CDN&#25925;&#38556;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The CDN fault affected some nodes in the Shandong region, impacting users there."</data>
+      <data key="d5">92a84e22171c557efed1482a809338d2</data>
+    </edge>
+    <edge source="&quot;&#23665;&#19996;&quot;" target="&quot;&#23458;&#26381;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#23458;&#26381; identifies that the affected users are located in &#23665;&#19996;."</data>
+      <data key="d5">89476fba3100ac1ff5105aec9c431f78</data>
+    </edge>
+    <edge source="&quot;&#23458;&#26381;&quot;" target="&quot;2024-6-22 15:52&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Customer Service reported the issue affecting 3 players at this time."</data>
+      <data key="d5">b480604f3948f8a3f2d1097051109c89</data>
+    </edge>
+    <edge source="&quot;&#23458;&#26381;&quot;" target="&quot;2024-6-22 17:26&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Customer Service reported the issue affecting a total of 7 players at this time."</data>
+      <data key="d5">b480604f3948f8a3f2d1097051109c89</data>
+    </edge>
+    <edge source="&quot;&#23458;&#26381;&quot;" target="&quot;&#25925;&#38556;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#23458;&#26381; provided feedback confirming the resolution of the system fault and the absence of new dropped orders."</data>
+      <data key="d5">c0f3ea54674bb0ecafe30db26094e3e6</data>
+    </edge>
+    <edge source="&quot;&#23458;&#26381;&quot;" target="&quot;&#38463;&#21345;&#26364;&#24037;&#20855;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#23458;&#26381; uses &#38463;&#21345;&#26364;&#24037;&#20855; to record specific issues and allow users to report problems."</data>
+      <data key="d5">dc5a79e76f52532f0f6d9d98fe509c10</data>
+    </edge>
+    <edge source="&quot;AKAMAI&#25253;&#21578;&quot;" target="&quot;&#20107;&#20214;&#36824;&#21407;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The event restoration details are provided in the Akamai report."</data>
+      <data key="d5">01e61b24ba23ea93888d873cd7368d08</data>
+    </edge>
+    <edge source="&quot;GLOBAL UNI-1&#33410;&#28857;&quot;" target="&quot;&#21326;&#20026;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The issue with the global uni-1 node affected Huawei account logins."</data>
+      <data key="d5">b480604f3948f8a3f2d1097051109c89</data>
+    </edge>
+    <edge source="&quot;GLOBAL UNI-1&#33410;&#28857;&quot;" target="&quot;&#28023;&#22806;&#28192;&#36947;&#26381;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The overseas channel server (&#28023;&#22806;&#28192;&#36947;&#26381;) experienced abnormal traffic increase affecting the global uni-1 node, leading to service unavailability."</data>
+      <data key="d5">3cca54c693c006c0c09c94c355e191f2</data>
+    </edge>
+    <edge source="&quot;2024-6-22 15:05:35&quot;" target="&quot;2024-6-22 15:52&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"The initial fault occurrence led to the first report by Customer Service at this time."
+"The issue was discovered after it started."</data>
+      <data key="d5">762220efabc3267455ff45cacae98753,b480604f3948f8a3f2d1097051109c89</data>
+    </edge>
+    <edge source="&quot;2024-6-22 15:05:35&quot;" target="&quot;2024-6-22 17:26&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The initial fault occurrence led to the second report by Customer Service at this time."</data>
+      <data key="d5">b480604f3948f8a3f2d1097051109c89</data>
+    </edge>
+    <edge source="&quot;2024-6-22 15:52&quot;" target="&quot;2024-6-22 16:05&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The issue response began shortly after it was discovered."</data>
+      <data key="d5">762220efabc3267455ff45cacae98753</data>
+    </edge>
+    <edge source="&quot;&#21326;&#20026;&quot;" target="&quot;2024.06.22&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"The date 2024.06.22 is related to the documentation of troubleshooting issues with Huawei's account login and payment."
+"The date 2024.06.22 is related to &#21326;&#20026; as it marks the documentation of troubleshooting issues with &#21326;&#20026; account login and payment."</data>
+      <data key="d5">56fe2035b5af39c64f2eebf0d033458c,f0a00d4b09a60a18ba4e7524471e0280</data>
+    </edge>
+    <edge source="&quot;2024-6-22 16:05&quot;" target="&quot;2024-6-22 17:57&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The machine was repaired and customer service was informed after the issue response began."</data>
+      <data key="d5">762220efabc3267455ff45cacae98753</data>
+    </edge>
+    <edge source="&quot;2024-6-22 17:57&quot;" target="&quot;2024-6-22 19:10&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The issue was resolved after the machine was repaired and customer service was informed."</data>
+      <data key="d5">762220efabc3267455ff45cacae98753</data>
+    </edge>
+    <edge source="&quot;UNI-1&quot;" target="&quot;GLOBAL UNI-1&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Global Uni-1 experienced a CPU overload, which affected the Uni-1 node machine."</data>
+      <data key="d5">b424af3552aa20bd56db05c3d3904daa</data>
+    </edge>
+    <edge source="&quot;UNI-1&quot;" target="&quot;UNI-2&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Uni-1 provides dependencies to Uni-2, and its unavailability directly affected Uni-2."</data>
+      <data key="d5">b424af3552aa20bd56db05c3d3904daa</data>
+    </edge>
+    <edge source="&quot;UNI-1&quot;" target="&quot;UNI-3&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Uni-1 provides dependencies to Uni-3, and its unavailability directly affected Uni-3."</data>
+      <data key="d5">b424af3552aa20bd56db05c3d3904daa</data>
+    </edge>
+    <edge source="&quot;ERLANG&quot;" target="&quot;EPMD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Erlang relies on epmd to manage communication ports between nodes, and improper iptables configuration can disrupt this process."</data>
+      <data key="d5">b424af3552aa20bd56db05c3d3904daa</data>
+    </edge>
+    <edge source="&quot;&#29992;&#25143;&quot;" target="&quot;S&#32423;&#20107;&#25925;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The users were unable to log in due to the high-severity incident."</data>
+      <data key="d5">d018613bd039b6224d617f020a37cea8</data>
+    </edge>
+    <edge source="&quot;&#38463;&#37324;OSS&quot;" target="&quot;S&#32423;&#20107;&#25925;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The script error related to Alibaba's Object Storage Service contributed to the high-severity incident."</data>
+      <data key="d5">d018613bd039b6224d617f020a37cea8</data>
+    </edge>
+    <edge source="&quot;CDN&quot;" target="&quot;S&#32423;&#20107;&#25925;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The failure to upload files to the Content Delivery Network was part of the cause of the high-severity incident."</data>
+      <data key="d5">d018613bd039b6224d617f020a37cea8</data>
+    </edge>
+    <edge source="&quot;CDN&quot;" target="&quot;&#27225;&#22495;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#27225;&#22495; provided CDN services as an alternative when Alibaba Cloud's CDN had issues."</data>
+      <data key="d5">bbd6d559896cbf6a96e97ef34ceb4376</data>
+    </edge>
+    <edge source="&quot;JENKINS&quot;" target="&quot;S&#32423;&#20107;&#25925;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jenkins completed without errors, but the QA did not detect the script modification, contributing to the incident."</data>
+      <data key="d5">d018613bd039b6224d617f020a37cea8</data>
+    </edge>
+    <edge source="&quot;JENKINS&quot;" target="&quot;QA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"QA relies on Jenkins to complete tasks without errors, indicating a dependency on the tool for successful operations."</data>
+      <data key="d5">e2703e9454e5353920ff8f5c6bde6280</data>
+    </edge>
+    <edge source="&quot;&#22269;&#38469;&#21326;&#20026;&#28192;&#36947;&quot;" target="&quot;SGAME&#20805;&#20540;&#32676;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sgame&#20805;&#20540;&#32676; received feedback about issues related to the &#22269;&#38469;&#21326;&#20026;&#28192;&#36947;."</data>
+      <data key="d5">6c6b79c329b004dcbf2e1ec9a6b3c990</data>
+    </edge>
+    <edge source="&quot;2024-6-22 23:51&quot;" target="&quot;2024-6-24 17:30&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The fault started on 2024-6-22 23:51 and ended on 2024-6-24 17:30, marking the duration of the issue."</data>
+      <data key="d5">323c9cce4a8746ce01272109d87a0e64</data>
+    </edge>
+    <edge source="&quot;&#24352;&#22825;&quot;" target="&quot;&#25925;&#38556;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#24352;&#22825; played a key role in handling and resolving the system fault."</data>
+      <data key="d5">c0f3ea54674bb0ecafe30db26094e3e6</data>
+    </edge>
+    <edge source="&quot;&#24352;&#22825;&quot;" target="&quot;&#25925;&#38556;&#27490;&#34880;&#26102;&#38388;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#24352;&#22825; started handling the issue during the temporary resolution time."</data>
+      <data key="d5">df89437304e392379853cc03070eb60a</data>
+    </edge>
+    <edge source="&quot;&#24352;&#22825;&quot;" target="&quot;&#25925;&#38556;&#32467;&#26463;&#26102;&#38388;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#24352;&#22825; was involved in the complete resolution of the issue."</data>
+      <data key="d5">df89437304e392379853cc03070eb60a</data>
+    </edge>
+    <edge source="&quot;&#26381;&#21153;&#22120;&#21516;&#23398;&quot;" target="&quot;&#25925;&#38556;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#26381;&#21153;&#22120;&#21516;&#23398; was involved in the intervention and handling of the system fault."</data>
+      <data key="d5">c0f3ea54674bb0ecafe30db26094e3e6</data>
+    </edge>
+    <edge source="&quot;&#25925;&#38556;&quot;" target="&quot;ENTRYPOINT.SH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The entrypoint.sh script was identified as a cause of the system fault due to its incompatibility with the ecs environment."</data>
+      <data key="d5">c0f3ea54674bb0ecafe30db26094e3e6</data>
+    </edge>
+    <edge source="&quot;&#21326;&#20026;&#36134;&quot;" target="&quot;SQL_EXECUTE_ERROR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The related fault documentation from &#21326;&#20026;&#36134; provides context for the sql_execute_error encountered."</data>
+      <data key="d5">00237e51403a48011d07b9bed8a2e6c5</data>
+    </edge>
+    <edge source="&quot;SQL_EXECUTE_ERROR&quot;" target="&quot;DB_HOST&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The undefined DB_HOST variable leads to configuration issues, which result in the sql_execute_error."</data>
+      <data key="d5">00237e51403a48011d07b9bed8a2e6c5</data>
+    </edge>
+    <edge source="&quot;DATAHUB&quot;" target="&quot;IP 106.15.40.185:9002&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"IP 106.15.40.185:9002 is the address of the datahub system that was accessed using weak credentials."</data>
+      <data key="d5">91cc64e57b578909b6643860b5f9fcb9</data>
+    </edge>
+    <edge source="&quot;DATAHUB&quot;" target="&quot;DATAHUB USER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The datahub user accessed the datahub system using weak credentials, exposing user lists and emails."</data>
+      <data key="d5">91cc64e57b578909b6643860b5f9fcb9</data>
+    </edge>
+    <edge source="&quot;DATAHUB&quot;" target="&quot;12.6&#26085; 15:30&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The issue with the datahub system was reported at 12.6&#26085; 15:30."</data>
+      <data key="d5">91cc64e57b578909b6643860b5f9fcb9</data>
+    </edge>
+    <edge source="&quot;DATAHUB&quot;" target="&quot;&#38750;&#25480;&#26435;&#35775;&#38382;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Datahub's user account was involved in the unauthorized access event."</data>
+      <data key="d5">6af26582372c4ba0281e25a724664d11</data>
+    </edge>
+    <edge source="&quot;DATAHUB&quot;" target="&quot;106.15.40.185:9002&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"The datahub system was affected by the exposure of the IP address 106.15.40.185:9002."
+"The Datahub system was initially accessed through the IP address 106.15.40.185:9002, which was later taken offline."</data>
+      <data key="d5">1e25639bbf78dfdd4d0bd9f4b9760b2e,8f402ad8069ed1afcd021d0ce8d52030</data>
+    </edge>
+    <edge source="&quot;106.15.40.185:9002&quot;" target="&quot;&#38750;&#25480;&#26435;&#35775;&#38382;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The IP address 106.15.40.185:9002 being exposed led to the unauthorized access event."</data>
+      <data key="d5">6af26582372c4ba0281e25a724664d11</data>
+    </edge>
+    <edge source="&quot;106.15.40.185:9002&quot;" target="&quot;&#38463;&#37324;&#20113;K8S&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#38463;&#37324;&#20113;k8s was used to create the IP address that was exposed."</data>
+      <data key="d5">6af26582372c4ba0281e25a724664d11</data>
+    </edge>
+    <edge source="&quot;106.15.40.185:9002&quot;" target="&quot;8&#26376;12&#26085;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The IP address 106.15.40.185:9002 was created on 8&#26376;12&#26085;."</data>
+      <data key="d5">8f402ad8069ed1afcd021d0ce8d52030</data>
+    </edge>
+    <edge source="&quot;&#30740;&#21457;&#19982;&#36816;&#32500;&#20391;&quot;" target="&quot;&#32593;&#32476;&#23433;&#20840;&#20391;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Both &#30740;&#21457;&#19982;&#36816;&#32500;&#20391; and &#32593;&#32476;&#23433;&#20840;&#20391; are involved in implementing security improvements and raising awareness within the company."</data>
+      <data key="d5">1e25639bbf78dfdd4d0bd9f4b9760b2e</data>
+    </edge>
+    <edge source="&quot;&#26417;&#24503;&#26126;&quot;" target="&quot;&#40644;&#38745;&#23431;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Both &#40644;&#38745;&#23431; and &#26417;&#24503;&#26126; are involved in handling the tasks mentioned, indicating a collaborative effort."</data>
+      <data key="d5">38efb3b75f37799590c4a337911802e8</data>
+    </edge>
+    <edge source="&quot;&#26417;&#24503;&#26126;&quot;" target="&quot;&#26519;&#25402;&#28392;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#26417;&#24503;&#26126; and &#26519;&#25402;&#28392; are both part of the research and development team, working together on the tasks mentioned."</data>
+      <data key="d5">38efb3b75f37799590c4a337911802e8</data>
+    </edge>
+    <edge source="&quot;&#26417;&#24503;&#26126;&quot;" target="&quot;&#23385;&#20113;&#40857;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#26417;&#24503;&#26126; and &#23385;&#20113;&#40857; are both part of the research and development team, working together on the tasks mentioned."</data>
+      <data key="d5">38efb3b75f37799590c4a337911802e8</data>
+    </edge>
+    <edge source="&quot;&#33931;&#28023;&#27915;&quot;" target="&quot;&#38472;&#25991;&#25991;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"&#33931;&#28023;&#27915; and &#38472;&#25991;&#25991; are both part of the operations and maintenance team, working together on the tasks mentioned."
+"Both &#33931;&#28023;&#27915; and &#38472;&#25991;&#25991; are responsible for operations, indicating a shared role or collaboration."</data>
+      <data key="d5">38efb3b75f37799590c4a337911802e8,f4c8b2a93b5e2818ef32bec2fb1b2727</data>
+    </edge>
+    <edge source="&quot;&#21521;&#21513;&quot;" target="&quot;&#21016;&#39553;&#30591;&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"&#21521;&#21513; and &#21016;&#39553;&#30591; are both part of the network security team, working together on the tasks mentioned."
+"Both &#21521;&#21513; and &#21016;&#39553;&#30591; are responsible for network security, indicating a shared role or collaboration."</data>
+      <data key="d5">38efb3b75f37799590c4a337911802e8,f4c8b2a93b5e2818ef32bec2fb1b2727</data>
+    </edge>
+    <edge source="&quot;&#22269;&#26381;&quot;" target="&quot;&#22269;&#26381;&#32447;&#19978;&#25925;&#38556;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#22269;&#26381; is the server that experienced the online malfunction."</data>
+      <data key="d5">c332b3cbc5de3c45c134162f04622054</data>
+    </edge>
+    <edge source="&quot;&#22269;&#26381;&quot;" target="&quot;&#24320;&#26381;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#22269;&#26381; was reopened after being mistakenly shut down."</data>
+      <data key="d5">7ca1c63a6af19bf05dbe999d07f8ad26</data>
+    </edge>
+    <edge source="&quot;&#22269;&#38469;&#26381;&quot;" target="&quot;&#22269;&#26381;&#32447;&#19978;&#25925;&#38556;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The international server's maintenance activities were occurring concurrently with the national server's online malfunction."</data>
+      <data key="d5">c332b3cbc5de3c45c134162f04622054</data>
+    </edge>
+    <edge source="&quot;&#22269;&#38469;&#26381;&quot;" target="&quot;&#20572;&#26381;&#32500;&#25252;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#22269;&#38469;&#26381; underwent a scheduled shutdown for maintenance."</data>
+      <data key="d5">7ca1c63a6af19bf05dbe999d07f8ad26</data>
+    </edge>
+    <edge source="&quot;&#27225;&#22495;&quot;" target="&quot;&#38463;&#37324;&quot;">
+      <data key="d3">4.0</data>
+      <data key="d4">"&#38463;&#37324; requested resources from &#27225;&#22495;'s CDN, causing high bandwidth usage and slow download speeds."
+"&#38463;&#37324;&#35299;&#38500;bucket&#32593;&#32476;&#38480;&#21046;&#24182;&#21333;&#29420;&#20998;&#37197;&#24102;&#23485;&#65292;&#20294;&#24102;&#23485;&#20381;&#28982;&#34987;&#27225;&#22495;&#30340;&#22238;&#28304;&#35775;&#38382;&#35831;&#27714;&#25171;&#28385;&#12290;"
+"&#27225;&#22495;'s CDN was used as an alternative to &#38463;&#37324;&#20113;'s CDN during the issue on December 7th."
+"&#38463;&#37324;&#35299;&#38500;bucket&#32593;&#32476;&#38480;&#21046;&#24182;&#21333;&#29420;&#20998;&#37197;&#24102;&#23485;&#65292;&#20294;&#24102;&#23485;&#20381;&#28982;&#34987;&#27225;&#22495;&#30340;&#22238;&#28304;&#35775;&#38382;&#35831;&#27714;&#25171;&#28385;&#12290;"</data>
+      <data key="d5">44b76cc2c157c1e6031f2cd390d0aece,adad9c089fe0291cdf2e0ad730c259a6,bbd6d559896cbf6a96e97ef34ceb4376,e0fe6e36c23f1b9e4be482a35e5436a2</data>
+    </edge>
+    <edge source="&quot;&#32654;&#19996;&#33258;&#26816;NGINX&#26381;&#21153;&#22120;&quot;" target="&quot;&#20844;&#21496;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The company tested downloads from the East US self-check Nginx server to ensure the packages could be downloaded."</data>
+      <data key="d5">b38c676899a3604a4287be49f531c05f</data>
+    </edge>
+    <edge source="&quot;IOS&#29992;&#25143;&quot;" target="&quot;40&#20301;&#29992;&#25143;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"40 iOS users reported the issue to customer service, indicating they were affected by the download problem."</data>
+      <data key="d5">b38c676899a3604a4287be49f531c05f</data>
+    </edge>
+    <edge source="&quot;&#21069;&#31471;&quot;" target="&quot;&#23458;&#25143;&#31471;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#21069;&#31471; collects detailed error information to help locate problems with the &#23458;&#25143;&#31471;."</data>
+      <data key="d5">dc5a79e76f52532f0f6d9d98fe509c10</data>
+    </edge>
+    <edge source="&quot;SGAME&#20805;&#20540;&#32676;&quot;" target="&quot;2024-6-22&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"On 2024-6-22, the Sgame&#20805;&#20540;&#32676; received feedback from players about recharge issues."</data>
+      <data key="d5">6c6b79c329b004dcbf2e1ec9a6b3c990</data>
+    </edge>
+  </graph>
+</graphml>

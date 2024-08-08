@@ -1,0 +1,5 @@
+pandas
+tiktoken
+chainlit
+python-dotenv
+graphrag
